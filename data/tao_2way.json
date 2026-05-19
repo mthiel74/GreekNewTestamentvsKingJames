@@ -1,0 +1,34 @@
+[
+	{
+		"ch":1,
+		"chinese":"道可道，非常道。名可名，非常名。無，名天地之始﹔有，名萬物之母。故常無，欲以觀其妙；常有，欲以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+		"legge":"The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name. (Conceived of as) having no name, it is the Originator of heaven and earth; (conceived of as) having a name, it is the Mother of all things. Always without desire we must be found, If its deep mystery we would sound; But if desire always within us be, Its outer fringe is all that we shall see. Under these two aspects, it is really the same; but as development takes place, it receives the different names. Together we call them the Mystery. Where the Mystery is the deepest is the gate of all that is subtle and wonderful.",
+		"modern":"The Dao that can be spoken is not the constant Dao.\nThe name that can be named is not the constant name.\nNon-being is named as the beginning of heaven and earth;\nbeing is named as the mother of the ten thousand things.\nThus, constant non-being: desire thereby to observe its subtlety;\nconstant being: desire thereby to observe its boundary.\nThese two emerge together but differ in name;\ntogether they are called darkly profound.\nDarkly profound and again darkly profound:\nthe gate of the many subtleties.",
+		"d_zh_legge":0.6722840463674644,
+		"d_zh_modern":0.6598863383911442,
+		"d_legge_modern":0.18812314243146977,
+		"nuance":{
+			"headline":"Legge turns the chapter’s ontological pair 無\/有 into two “aspects” of a named or nameless divine source, while the modern rendering keeps the starker grammar of non-being\/being.",
+			"abstract_noun":"無\/有 (wú\/yǒu), 玄 (xuán)",
+			"victorian_marker":"Explanatory parentheticals, periphrastic “enduring and unchanging,” and rhymed moralizing verse",
+			"christianising":"“Originator” and capitalized “Mystery”",
+			"explanation":"The sharpest divergence is at 無，名天地之始；有，名萬物之母. Legge’s “(Conceived of as) having no name” effectively reads 無名 and 有名, making the issue namelessness versus nameability. The modern version instead treats 無 and 有 as abstract ontological terms: “Non-being is named…” and “being is named…”. That is closer to the Wang Bi punctuation as supplied, where 無 and 有 stand before the comma. Legge’s “Originator of heaven and earth” also goes beyond 始, “beginning,” importing a quasi-creator term; “Mother” is in the Chinese 母, but “Originator” is not.\n\nAt 道可道, Legge’s “can be trodden” foregrounds 道 as a path, whereas “can be spoken” makes 道 verbal and pairs it with 名可名, “the name that can be named.” His “enduring and unchanging” is a Victorian expansion of 常; “constant” is plainer and less metaphysical.\n\nThe desire lines also differ grammatically. Legge reads 常無欲 \/ 常有欲: “Always without desire…” versus “if desire…” The modern parses 常無 and 常有, taking 欲 as “desire\/wish thereby to observe,” so the objects of contemplation are 無 and 有 themselves, not the sage’s psychology. Finally, Legge’s capitalized “Mystery” for 玄 theologicalizes what literally suggests the dark, obscure, profound; “darkly profound” preserves that semantic color."
+		}
+	},
+	{
+		"ch":2,
+		"chinese":"天下皆知美之為美，斯惡矣﹔皆知善之為善，斯不善矣。故有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。是以聖人處「無為」之事，行「不言」之教。萬物作焉而不辭，生而不有，為而不恃，功成而弗居。夫唯弗居，是以不去。",
+		"legge":"All in the world know the beauty of the beautiful, and in doing this they have (the idea of) what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is. So it is that existence and non-existence give birth the one to (the idea of) the other; that difficulty and ease produce the one (the idea of) the other; that length and shortness fashion out the one the figure of the other; that (the ideas of) height and lowness arise from the contrast of the one with the other; that the musical notes and tones become harmonious through the relation of one with another; and that being before and behind give the idea of one following another. Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech.",
+		"modern":"When all under Heaven know the beautiful as beautiful, then the ugly is already present;\nwhen all know the good as good, then the not-good is already present.\nTherefore being and non-being give rise to one another;\ndifficult and easy complete one another;\nlong and short give form to one another;\nhigh and low incline toward one another;\ntone and sound harmonize with one another;\nbefore and after follow one another.\nFor this reason, the sage dwells in the work of without-action\nand carries out the teaching without words.\nThe ten thousand things arise there, yet are not refused;\ngenerated, yet not possessed;\nacted, yet not relied upon;\nthe work accomplished, yet not dwelt in.\nPrecisely because it is not dwelt in,\ntherefore it does not depart.",
+		"d_zh_legge":0.6249291058727536,
+		"d_zh_modern":0.6188862600920441,
+		"d_legge_modern":0.21372016866463628,
+		"nuance":{
+			"headline":"Legge’s decisive nuance is to psychologize Laozi’s reciprocal opposites as “ideas,” while the modern rendering keeps them as co-arising relations.",
+			"abstract_noun":"有\/無 (yǒu\/wú); 無為 (wúwéi)",
+			"victorian_marker":"Repeated parenthetical glosses such as “(the idea of)” and explanatory abstract diction",
+			"christianising":"",
+			"explanation":"Legge’s most consequential move is to make Laozi’s correlations psychological. Where 天下皆知美之為美，斯惡矣 says that once “beauty” is recognized as beauty, “ugliness” (惡) is thereby in play, Legge writes that people have “(the idea of) what ugliness is.” His recurring parenthetical “(the idea of)” before ugliness, the other, height\/lowness, and before\/behind turns 相生\/相成 etc. into the generation of concepts. The modern “already present” and “give rise\/complete\/give form ... to one another” keeps the Chinese reciprocal 相 as relational co-constitution, not merely mental contrast. Legge’s 善 as “the skill of the skilful” is also notable: 善 can mean adept, but paired with 美 and opposed to 不善 it more naturally reads “good,” so his wording de-moralizes the line into competence. For 有無, Legge’s “existence and non-existence” is Victorian metaphysical diction; “being and non-being” is equally abstract but less explanatory and closer to later Daoist terminology. At 無為, “without doing anything” risks simple passivity, whereas “without-action” flags a technical term for non-coercive action. Likewise Legge’s “manages affairs” and “conveys his instructions” make 處...事 and 行...教 sound administrative and pedagogic. As quoted, Legge also stops before 萬物作焉...弗居, so the modern’s anti-possession refrain has no Legge counterpart here. No specifically Christian vocabulary appears in this chapter."
+		}
+	}
+]

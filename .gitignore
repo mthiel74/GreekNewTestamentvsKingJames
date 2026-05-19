@@ -1,0 +1,36 @@
+# Bulk raw downloads — regenerable, not committed
+data/raw/
+data/cache/
+
+# Embeddings cache (binary, large, regenerable)
+data/embeddings/
+
+# Secrets
+.env
+secrets.json
+*.key
+
+# macOS
+.DS_Store
+
+# Claude Code session state
+.claude/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Wolfram FE artifacts
+*.nb.tmp
+.~lock.*
+
+# Notebook build cache
+community/.img-cache/
+
+# Python (only used for optional helpers, none committed)
+__pycache__/
+*.pyc
+.venv/
+
+# Test / pytest
+.pytest_cache/

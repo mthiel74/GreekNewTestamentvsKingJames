@@ -1,0 +1,43 @@
+{
+	"source":"Ἐὰν ταῖς γλώσσαις τῶν ἀνθρώπων λαλῶ καὶ τῶν ἀγγέλων, ἀγάπην δὲ μὴ ἔχω, γέγονα χαλκὸς ἠχῶν ἢ κύμβαλον ἀλαλάζον.",
+	"sourceLang":"Koine Greek",
+	"model":"gpt-5.4",
+	"baseline":"If in the tongues of human beings I speak, and of angels, but do not have love, I have become sounding bronze or a clanging cymbal.",
+	"candidates":[
+		{
+			"index":2,
+			"candidate":"If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal.",
+			"distance":0.1132278386513923
+		},
+		{
+			"index":1,
+			"candidate":"Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+			"distance":0.15554689602251937
+		},
+		{
+			"index":3,
+			"candidate":"If my words have all the beauty of every human dialect and every angelic song, yet I am loveless, I am no more than an empty echo.",
+			"distance":0.3405249429676338
+		}
+	],
+	"commentary":[
+		{
+			"distinctive_choice":"Changes the coordination and instrument image: “or of angels” and “resounding gong” instead of “and of angels” and “sounding bronze.”",
+			"key_lemma":"καὶ \/ χαλκὸς ἠχῶν",
+			"suggested_alt":"a sounding bronze",
+			"explanation":"The candidate is mostly accurate, but it makes two notable shifts. First, Greek has καὶ τῶν ἀγγέλων, so “and of angels” is preferable to “or of angels”; the latter weakens the cumulative, hyperbolic force. Second, χαλκὸς ἠχῶν is more literally “sounding bronze\/brass,” not specifically a “gong.” “Gong” is interpretive and narrows the image to a particular instrument absent from the Greek. “I am only” also adds “only,” which is not explicit, though it captures the depreciative sense. “Men” for ἀνθρώπων is acceptable but less inclusive than “human beings.”"
+		},
+		{
+			"distinctive_choice":"Uses traditional KJV-style diction (“Though,” “charity,” “brass,” “tinkling”) and adds “as,” slightly reshaping the comparison.",
+			"key_lemma":"ἀγάπην",
+			"suggested_alt":"but do not have love",
+			"explanation":"The candidate is broadly faithful but noticeably archaizing. “Though” weakens the source’s conditional force in Ἐὰν ... λαλῶ, better represented by “If.” The most significant lexical divergence is “charity” for ἀγάπην; while historically established, in modern English it can narrow or misdirect the sense from the broader “love.” “Brass” for χαλκὸς is an older equivalent of “bronze,” acceptable but less precise. “Tinkling cymbal” departs from κύμβαλον ἀλαλάζον, which suggests a loud, clamorous, clanging noise rather than a delicate tinkling sound. The inserted “as” is interpretive but minor."
+		},
+		{
+			"distinctive_choice":"The candidate paraphrases heavily, adding aesthetic notions and collapsing Paul’s two concrete sound-images into an abstract moralized effect.",
+			"key_lemma":"γλώσσαις; χαλκὸς ἠχῶν ἢ κύμβαλον ἀλαλάζον",
+			"suggested_alt":"I have become a sounding bronze or a clanging cymbal.",
+			"explanation":"Compared with the baseline, the candidate expands γλώσσαις (“tongues\/languages”) into “all the beauty of every human dialect and every angelic song,” importing ideas of beauty and song not present in the Greek. It also weakens the conditional speaking clause λαλῶ into “my words have,” and renders ἀγάπην ... μὴ ἔχω acceptably as “I am loveless.” Most significantly, γέγονα χαλκὸς ἠχῶν ἢ κύμβαλον ἀλαλάζον is reduced to “an empty echo,” which omits the vivid paired images of resonant bronze and a clashing cymbal and their harsh auditory force."
+		}
+	]
+}

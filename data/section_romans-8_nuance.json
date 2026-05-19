@@ -1,0 +1,212 @@
+[
+	{
+		"ref":"Ro 8:21",
+		"greek":"ὅτι καὶ αὐτὴ ἡ κτίσις ἐλευθερωθήσεται ἀπὸ τῆς δουλείας τῆς φθορᾶς εἰς τὴν ἐλευθερίαν τῆς δόξης τῶν τέκνων τοῦ θεοῦ.",
+		"kjv":"Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.",
+		"modern":"that the creation itself also will be set free from its bondage to decay into the freedom of the glory of the children of God.",
+		"distance":0.21768944855142147,
+		"nuance":{
+			"primary_nuance":"KJV’s “Because” can sound causally independent, whereas the Greek ὅτι most naturally supplies the content of the preceding “hope”: “in hope that …”.",
+			"category":"syntactic-compression",
+			"key_term":"ὅτι",
+			"english_drift":"“creature”: in early modern English, “a created thing\/being; creation” (OED creature n.); in modern usage, often an individual animal or living being.",
+			"textual_note":"No substantial TR\/Byzantine versus SBLGNT difference affects this verse; the KJV is not here translating an added Textus Receptus phrase absent from the NU\/SBL text.",
+			"cross_refs":[
+				"Rom 8:18",
+				"Rom 8:20",
+				"Rom 8:22"
+			],
+			"explanation":"There is no meaningful TR\/NU divergence here; the KJV translates essentially the same Greek sequence. The main syntactic issue is ὅτι. Since v.20 ends ἐπ’ ἐλπίδι, ὅτι is naturally epexegetic\/content-bearing: “in hope that,” not an independent causal “because”; BDAG s.v. ὅτι includes this content use. KJV punctuation actually leaves it dependent—“in hope, Because …”—but modern readers hear a causal clause. Also, κτίσις in vv.19–22 is not one “creature” but the created order; KJV “creature” reflects early modern “created thing\/creation,” whereas contemporary English suggests an individual animal. Finally, “glorious liberty” turns τὴν ἐλευθερίαν τῆς δόξης into an adjective; the Greek genitive chain says “the freedom belonging to\/constituted by the glory of God’s children,” preserving Paul’s link between creation’s liberation and believers’ eschatological δόξα."
+		},
+		"raw":"{\n  \"primary_nuance\": \"KJV’s “Because” can sound causally independent, whereas the Greek ὅτι most naturally supplies the content of the preceding “hope”: “in hope that …”.\",\n  \"category\": \"syntactic-compression\",\n  \"key_term\": \"ὅτι\",\n  \"english_drift\": \"“creature”: in early modern English, “a created thing\/being; creation” (OED creature n.); in modern usage, often an individual animal or living being.\",\n  \"textual_note\": \"No substantial TR\/Byzantine versus SBLGNT difference affects this verse; the KJV is not here translating an added Textus Receptus phrase absent from the NU\/SBL text.\",\n  \"cross_refs\": [\n    \"Rom 8:18\",\n    \"Rom 8:20\",\n    \"Rom 8:22\"\n  ],\n  \"explanation\": \"There is no meaningful TR\/NU divergence here; the KJV translates essentially the same Greek sequence. The main syntactic issue is ὅτι. Since v.20 ends ἐπ’ ἐλπίδι, ὅτι is naturally epexegetic\/content-bearing: “in hope that,” not an independent causal “because”; BDAG s.v. ὅτι includes this content use. KJV punctuation actually leaves it dependent—“in hope, Because …”—but modern readers hear a causal clause. Also, κτίσις in vv.19–22 is not one “creature” but the created order; KJV “creature” reflects early modern “created thing\/creation,” whereas contemporary English suggests an individual animal. Finally, “glorious liberty” turns τὴν ἐλευθερίαν τῆς δόξης into an adjective; the Greek genitive chain says “the freedom belonging to\/constituted by the glory of God’s children,” preserving Paul’s link between creation’s liberation and believers’ eschatological δόξα.\"\n}"
+	},
+	{
+		"ref":"Ro 8:6",
+		"greek":"τὸ γὰρ φρόνημα τῆς σαρκὸς θάνατος, τὸ δὲ φρόνημα τοῦ πνεύματος ζωὴ καὶ εἰρήνη·",
+		"kjv":"For to be carnally minded is death; but to be spiritually minded is life and peace.",
+		"modern":"For the mindset of the flesh is death, but the mindset of the Spirit is life and peace.",
+		"distance":0.2171455072909615,
+		"nuance":{
+			"primary_nuance":"The KJV’s “to be carnally\/spiritually minded” verbalizes the Greek noun φρόνημα and uses “carnally” in its older theological sense, not the narrower modern sense “sexually.”",
+			"category":"archaic-english-drift",
+			"key_term":"φρόνημα",
+			"english_drift":"“carnally”: in KJV-era theological use, “fleshly; not spiritual, worldly” (OED s.v. carnal, adj., sense “not spiritual”); in common modern use, often “sexually\/sensually.”",
+			"textual_note":"",
+			"cross_refs":[
+				"Rom 8:5",
+				"Rom 8:7",
+				"Gal 5:16–17"
+			],
+			"explanation":"There is no significant textual issue here: the KJV is not reflecting a different Greek reading. The nuance is lexical and syntactic. “To be carnally\/spiritually minded” turns the Greek articular nominal predicates into infinitival clauses: τὸ ... φρόνημα ... θάνατος. φρόνημα is not merely “being minded” at a moment but a “way of thinking,” “mindset,” or “aspiration” (BDAG s.v. φρόνημα). The genitives τῆς σαρκός and τοῦ πνεύματος mark the sphere or controlling source: “of flesh” versus “of Spirit.” KJV “carnally” was transparent theological English—fleshly, belonging to the non-spiritual order—but in contemporary usage can suggest sexual or sensual content too narrowly. Modern “flesh” better preserves Paul’s σάρξ\/πνεῦμα antithesis in Rom 8:5–8. Capitalized “Spirit” is interpretive; Greek πνεῦμα has no capitalization, though the context in 8:9–11 strongly favors the divine Spirit."
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “to be carnally\/spiritually minded” verbalizes the Greek noun φρόνημα and uses “carnally” in its older theological sense, not the narrower modern sense “sexually.”\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"φρόνημα\",\n  \"english_drift\": \"“carnally”: in KJV-era theological use, “fleshly; not spiritual, worldly” (OED s.v. carnal, adj., sense “not spiritual”); in common modern use, often “sexually\/sensually.”\",\n  \"textual_note\": \"\",\n  \"cross_refs\": [\n    \"Rom 8:5\",\n    \"Rom 8:7\",\n    \"Gal 5:16–17\"\n  ],\n  \"explanation\": \"There is no significant textual issue here: the KJV is not reflecting a different Greek reading. The nuance is lexical and syntactic. “To be carnally\/spiritually minded” turns the Greek articular nominal predicates into infinitival clauses: τὸ ... φρόνημα ... θάνατος. φρόνημα is not merely “being minded” at a moment but a “way of thinking,” “mindset,” or “aspiration” (BDAG s.v. φρόνημα). The genitives τῆς σαρκός and τοῦ πνεύματος mark the sphere or controlling source: “of flesh” versus “of Spirit.” KJV “carnally” was transparent theological English—fleshly, belonging to the non-spiritual order—but in contemporary usage can suggest sexual or sensual content too narrowly. Modern “flesh” better preserves Paul’s σάρξ\/πνεῦμα antithesis in Rom 8:5–8. Capitalized “Spirit” is interpretive; Greek πνεῦμα has no capitalization, though the context in 8:9–11 strongly favors the divine Spirit.\" \n}"
+	},
+	{
+		"ref":"Ro 8:7",
+		"greek":"διότι τὸ φρόνημα τῆς σαρκὸς ἔχθρα εἰς θεόν, τῷ γὰρ νόμῳ τοῦ θεοῦ οὐχ ὑποτάσσεται, οὐδὲ γὰρ δύναται·",
+		"kjv":"Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.",
+		"modern":"because the mindset of the flesh is hostility toward God; for it does not submit to the law of God—indeed, it is not able to.",
+		"distance":0.2077308422296369,
+		"nuance":{
+			"primary_nuance":"The KJV’s “carnal mind” can suggest a mental faculty or merely sensual thought, whereas Paul’s τὸ φρόνημα τῆς σαρκός denotes the whole flesh-determined orientation or mindset hostile to God.",
+			"category":"archaic-english-drift",
+			"key_term":"φρόνημα",
+			"english_drift":"carnal: in 1611, ‘fleshly; worldly; not spiritual’ (OED, carnal adj.); in modern usage, often narrowed to ‘sensual\/sexual.’",
+			"textual_note":"",
+			"cross_refs":[
+				"Rom 8:6",
+				"Gal 5:17",
+				"Col 3:2"
+			],
+			"explanation":"There is no meaningful TR\/Byzantine divergence here; the KJV and SBLGNT translate the same wording. The main difference is semantic. “Carnal mind” is a compact but now potentially misleading rendering of τὸ φρόνημα τῆς σαρκός. φρόνημα, in Paul, denotes the “way of thinking,” “mind-set,” or aspiration\/orientation, not simply the cognitive faculty “mind” (BDAG s.v. φρόνημα); and σάρξ is the human sphere oriented away from God, not merely the physical body. Early modern “carnal” could mean “fleshly; worldly; not spiritual,” whereas present usage often suggests sexual or sensual appetite. Thus “mindset of the flesh” better preserves Paul’s anthropological idiom. “Hostility toward God” for ἔχθρα εἰς θεόν is slightly less personified than KJV “enmity against God,” though both are defensible. Finally, οὐχ ὑποτάσσεται is present middle\/passive in form; “does not submit” captures the intransitive\/reflexive force better than “is not subject.”"
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “carnal mind” can suggest a mental faculty or merely sensual thought, whereas Paul’s τὸ φρόνημα τῆς σαρκός denotes the whole flesh-determined orientation or mindset hostile to God.\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"φρόνημα\",\n  \"english_drift\": \"carnal: in 1611, ‘fleshly; worldly; not spiritual’ (OED, carnal adj.); in modern usage, often narrowed to ‘sensual\/sexual.’\",\n  \"textual_note\": \"\",\n  \"cross_refs\": [\n    \"Rom 8:6\",\n    \"Gal 5:17\",\n    \"Col 3:2\"\n  ],\n  \"explanation\": \"There is no meaningful TR\/Byzantine divergence here; the KJV and SBLGNT translate the same wording. The main difference is semantic. “Carnal mind” is a compact but now potentially misleading rendering of τὸ φρόνημα τῆς σαρκός. φρόνημα, in Paul, denotes the “way of thinking,” “mind-set,” or aspiration\/orientation, not simply the cognitive faculty “mind” (BDAG s.v. φρόνημα); and σάρξ is the human sphere oriented away from God, not merely the physical body. Early modern “carnal” could mean “fleshly; worldly; not spiritual,” whereas present usage often suggests sexual or sensual appetite. Thus “mindset of the flesh” better preserves Paul’s anthropological idiom. “Hostility toward God” for ἔχθρα εἰς θεόν is slightly less personified than KJV “enmity against God,” though both are defensible. Finally, οὐχ ὑποτάσσεται is present middle\/passive in form; “does not submit” captures the intransitive\/reflexive force better than “is not subject.”\"\n}"
+	},
+	{
+		"ref":"Ro 8:20",
+		"greek":"τῇ γὰρ ματαιότητι ἡ κτίσις ὑπετάγη, οὐχ ἑκοῦσα ἀλλὰ διὰ τὸν ὑποτάξαντα, ἐφ’ ἑλπίδι",
+		"kjv":"For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,",
+		"modern":"For to futility the creation was subjected, not willingly but because of the one who subjected it, in hope.",
+		"distance":0.20387764740908032,
+		"nuance":{
+			"primary_nuance":"The KJV’s “creature” and “vanity” once fit the Greek reasonably well, but in modern English they tend to misdirect readers toward an individual animal and personal conceit rather than the created order subjected to futility.",
+			"category":"archaic-english-drift",
+			"key_term":"κτίσις",
+			"english_drift":"“creature” = in early modern English, a created thing or the creation collectively; now usually an animal or living being. “vanity” = emptiness, futility, worthlessness; now often self-conceit.",
+			"textual_note":"",
+			"cross_refs":[
+				"Rom 8:21–22",
+				"Eph 4:17",
+				"2 Pet 2:18"
+			],
+			"explanation":"There is no significant TR\/SBLGNT divergence here: the KJV is translating essentially the same Greek text. The main issue is lexical and stylistic. κτίσις can mean an individual creature, but in this context—especially Rom 8:21–22, where “the whole creation” groans—the collective sense “creation” is preferable; see BDAG s.v. κτίσις. KJV “creature” was broader in early modern English than it is for many modern readers. Likewise ματαιότης is not “vanity” in the now-common sense of narcissistic self-regard, but futility, frustration, or subjection to ineffectuality; BDAG s.v. ματαιότης compares the semantic field of emptiness and purposelessness. Syntactically, the fronted dative τῇ ματαιότητι gives prominence to the condition imposed: “to futility the creation was subjected.” KJV “hath subjected” renders the aorist participle ὑποτάξαντα with an English perfect, slightly sharpening resultant state beyond the Greek’s simple past reference."
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “creature” and “vanity” once fit the Greek reasonably well, but in modern English they tend to misdirect readers toward an individual animal and personal conceit rather than the created order subjected to futility.\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"κτίσις\",\n  \"english_drift\": \"“creature” = in early modern English, a created thing or the creation collectively; now usually an animal or living being. “vanity” = emptiness, futility, worthlessness; now often self-conceit.\",\n  \"textual_note\": \"\",\n  \"cross_refs\": [\n    \"Rom 8:21–22\",\n    \"Eph 4:17\",\n    \"2 Pet 2:18\"\n  ],\n  \"explanation\": \"There is no significant TR\/SBLGNT divergence here: the KJV is translating essentially the same Greek text. The main issue is lexical and stylistic. κτίσις can mean an individual creature, but in this context—especially Rom 8:21–22, where “the whole creation” groans—the collective sense “creation” is preferable; see BDAG s.v. κτίσις. KJV “creature” was broader in early modern English than it is for many modern readers. Likewise ματαιότης is not “vanity” in the now-common sense of narcissistic self-regard, but futility, frustration, or subjection to ineffectuality; BDAG s.v. ματαιότης compares the semantic field of emptiness and purposelessness. Syntactically, the fronted dative τῇ ματαιότητι gives prominence to the condition imposed: “to futility the creation was subjected.” KJV “hath subjected” renders the aorist participle ὑποτάξαντα with an English perfect, slightly sharpening resultant state beyond the Greek’s simple past reference.\"\n}"
+	},
+	{
+		"ref":"Ro 8:19",
+		"greek":"ἡ γὰρ ἀποκαραδοκία τῆς κτίσεως τὴν ἀποκάλυψιν τῶν υἱῶν τοῦ θεοῦ ἀπεκδέχεται·",
+		"kjv":"For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
+		"modern":"For the eager longing of the creation waits for the revelation of the sons of God.",
+		"distance":0.18831941823634035,
+		"nuance":{
+			"primary_nuance":"The KJV’s “creature” renders κτίσις in a now-misleading early-modern sense: Paul means the created order collectively, not an individual animal or being.",
+			"category":"archaic-english-drift",
+			"key_term":"κτίσις",
+			"english_drift":"“creature”: in early modern English, a created thing or creation, sometimes with collective force; in current usage, usually an individual living being, especially an animal.",
+			"textual_note":"",
+			"cross_refs":[
+				"Rom 8:20-22",
+				"Col 1:15",
+				"2 Cor 5:17"
+			],
+			"explanation":"There is no meaningful TR\/SBLGNT difference here; the nuance is lexical. Κτίσις, BDAG s.v. κτίσις, can denote either the act of creating, an individual creature, or the created order. In Rom 8:19-22 the repeated personification—creation was subjected, groans, awaits liberation—shows that τῆς κτίσεως is collective: “the creation,” especially non-human creation, not “the creature” as one organism. The KJV’s “creature” was less misleading in 1611, since “creature” could mean simply “created thing” and could function more broadly than it usually does today; modern English tends to hear “creature” zoologically or individually. “Manifestation” for ἀποκάλυψιν is defensible but slightly less apocalyptic than “revelation\/unveiling.” Also ἀπεκδέχεται is deponent\/middle in form and already means “wait eagerly,” so KJV distributes the eagerness into “earnest expectation,” while the modern keeps it in “eager longing.”"
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “creature” renders κτίσις in a now-misleading early-modern sense: Paul means the created order collectively, not an individual animal or being.\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"κτίσις\",\n  \"english_drift\": \"“creature”: in early modern English, a created thing or creation, sometimes with collective force; in current usage, usually an individual living being, especially an animal.\",\n  \"textual_note\": \"\",\n  \"cross_refs\": [\n    \"Rom 8:20-22\",\n    \"Col 1:15\",\n    \"2 Cor 5:17\"\n  ],\n  \"explanation\": \"There is no meaningful TR\/SBLGNT difference here; the nuance is lexical. Κτίσις, BDAG s.v. κτίσις, can denote either the act of creating, an individual creature, or the created order. In Rom 8:19-22 the repeated personification—creation was subjected, groans, awaits liberation—shows that τῆς κτίσεως is collective: “the creation,” especially non-human creation, not “the creature” as one organism. The KJV’s “creature” was less misleading in 1611, since “creature” could mean simply “created thing” and could function more broadly than it usually does today; modern English tends to hear “creature” zoologically or individually. “Manifestation” for ἀποκάλυψιν is defensible but slightly less apocalyptic than “revelation\/unveiling.” Also ἀπεκδέχεται is deponent\/middle in form and already means “wait eagerly,” so KJV distributes the eagerness into “earnest expectation,” while the modern keeps it in “eager longing.”\"\n}"
+	},
+	{
+		"ref":"Ro 8:5",
+		"greek":"οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν, οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος.",
+		"kjv":"For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.",
+		"modern":"For those who are according to the flesh set their minds on the things of the flesh, but those who are according to the Spirit on the things of the Spirit.",
+		"distance":0.17695177652038585,
+		"nuance":{
+			"primary_nuance":"The KJV’s “do mind” reflects an older sense of “mind” = attend to\/care for, whereas φρονεῖν here denotes a settled orientation that modern “set their minds on” makes clearer.",
+			"category":"archaic-english-drift",
+			"key_term":"φρονέω",
+			"english_drift":"mind (v.): OED, “to direct one’s thoughts or attention to; to regard, care for”; modern “mind” often means obey, look after, or object to.",
+			"textual_note":"",
+			"cross_refs":[
+				"Rom 8:6",
+				"Phil 3:19",
+				"Col 3:2"
+			],
+			"explanation":"There is no significant TR\/SBLGNT textual divergence here; the issue is diction. The Greek pivot is φρονοῦσιν (φρονέω), with τὰ τῆς σαρκός \/ τὰ τοῦ πνεύματος as its objects: not mere cognition, but a settled orientation, concern, or evaluative disposition (BDAG s.v. φρονέω; cf. Rom 8:6 φρόνημα). KJV “do mind” could in early modern English mean “attend to, regard, care for,” but contemporary “mind” tends toward “obey,” “look after,” or “object to,” so it can mislead or sound too weak. The modern “set their minds on” is therefore interpretive but closer to Paul’s anthropological contrast. Likewise “after the flesh\/Spirit” is not temporal; KJV “after” here has the older sense “according to\/in conformity with.” The second clause is elliptical in Greek and in both English renderings: φρονοῦσιν is supplied from the first clause."
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “do mind” reflects an older sense of “mind” = attend to\/care for, whereas φρονεῖν here denotes a settled orientation that modern “set their minds on” makes clearer.\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"φρονέω\",\n  \"english_drift\": \"mind (v.): OED, “to direct one’s thoughts or attention to; to regard, care for”; modern “mind” often means obey, look after, or object to.\",\n  \"textual_note\": \"\",\n  \"cross_refs\": [\n    \"Rom 8:6\",\n    \"Phil 3:19\",\n    \"Col 3:2\"\n  ],\n  \"explanation\": \"There is no significant TR\/SBLGNT textual divergence here; the issue is diction. The Greek pivot is φρονοῦσιν (φρονέω), with τὰ τῆς σαρκός \/ τὰ τοῦ πνεύματος as its objects: not mere cognition, but a settled orientation, concern, or evaluative disposition (BDAG s.v. φρονέω; cf. Rom 8:6 φρόνημα). KJV “do mind” could in early modern English mean “attend to, regard, care for,” but contemporary “mind” tends toward “obey,” “look after,” or “object to,” so it can mislead or sound too weak. The modern “set their minds on” is therefore interpretive but closer to Paul’s anthropological contrast. Likewise “after the flesh\/Spirit” is not temporal; KJV “after” here has the older sense “according to\/in conformity with.” The second clause is elliptical in Greek and in both English renderings: φρονοῦσιν is supplied from the first clause.\"\n}"
+	},
+	{
+		"ref":"Ro 8:33",
+		"greek":"τίς ἐγκαλέσει κατὰ ἐκλεκτῶν θεοῦ; θεὸς ὁ δικαιῶν·",
+		"kjv":"Who shall lay any thing to the charge of God’s elect? It is God that justifieth.",
+		"modern":"Who will bring a charge against God’s elect? God is the one who justifies.",
+		"distance":0.17159535822220584,
+		"nuance":{
+			"primary_nuance":"The KJV’s “lay any thing to the charge” is not a textual addition but a forensic English idiom for ἐγκαλέω, whereas the modern “bring a charge” makes the legal sense and the supplied object transparent.",
+			"category":"translation-style",
+			"key_term":"ἐγκαλέω",
+			"english_drift":"",
+			"textual_note":"No material TR\/Byzantine versus SBLGNT\/NA28 difference affects this wording; the punctuation after δικαιῶν is editorial rather than manuscript punctuation.",
+			"cross_refs":[
+				"Rom 8:34",
+				"Acts 19:38",
+				"Acts 26:2"
+			],
+			"explanation":"The difference is mainly idiomatic and forensic. ἐγκαλέω means “bring charges against, accuse” in legal contexts (BDAG s.v. ἐγκαλέω), and the construction here, ἐγκαλέσει κατὰ ἐκλεκτῶν θεοῦ, is well captured by “bring a charge against.” The KJV’s “lay any thing to the charge of” is a legitimate early-modern legal idiom, but “any thing” is an English explicitation, not a separate Greek term. The articular participle θεὸς ὁ δικαιῶν is also slightly compressed in the KJV’s cleft, “It is God that justifieth”; the modern “God is the one who justifies” more visibly mirrors ὁ δικαιῶν. The forensic pairing with τίς ὁ κατακρινῶν in v. 34 confirms that Paul is thinking in courtroom terms: accusation is futile because the judge is the justifying God."
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “lay any thing to the charge” is not a textual addition but a forensic English idiom for ἐγκαλέω, whereas the modern “bring a charge” makes the legal sense and the supplied object transparent.\",\n  \"category\": \"translation-style\",\n  \"key_term\": \"ἐγκαλέω\",\n  \"english_drift\": \"\",\n  \"textual_note\": \"No material TR\/Byzantine versus SBLGNT\/NA28 difference affects this wording; the punctuation after δικαιῶν is editorial rather than manuscript punctuation.\",\n  \"cross_refs\": [\n    \"Rom 8:34\",\n    \"Acts 19:38\",\n    \"Acts 26:2\"\n  ],\n  \"explanation\": \"The difference is mainly idiomatic and forensic. ἐγκαλέω means “bring charges against, accuse” in legal contexts (BDAG s.v. ἐγκαλέω), and the construction here, ἐγκαλέσει κατὰ ἐκλεκτῶν θεοῦ, is well captured by “bring a charge against.” The KJV’s “lay any thing to the charge of” is a legitimate early-modern legal idiom, but “any thing” is an English explicitation, not a separate Greek term. The articular participle θεὸς ὁ δικαιῶν is also slightly compressed in the KJV’s cleft, “It is God that justifieth”; the modern “God is the one who justifies” more visibly mirrors ὁ δικαιῶν. The forensic pairing with τίς ὁ κατακρινῶν in v. 34 confirms that Paul is thinking in courtroom terms: accusation is futile because the judge is the justifying God.\"\n}"
+	},
+	{
+		"ref":"Ro 8:9",
+		"greek":"Ὑμεῖς δὲ οὐκ ἐστὲ ἐν σαρκὶ ἀλλὰ ἐν πνεύματι, εἴπερ πνεῦμα θεοῦ οἰκεῖ ἐν ὑμῖν. εἰ δέ τις πνεῦμα Χριστοῦ οὐκ ἔχει, οὗτος οὐκ ἔστιν αὐτοῦ.",
+		"kjv":"But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.",
+		"modern":"You, however, are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. But if anyone does not have the Spirit of Christ, this person does not belong to him.",
+		"distance":0.16262731193596125,
+		"nuance":{
+			"primary_nuance":"The KJV’s “he is none of his” is an older possessive idiom meaning “does not belong to him,” while the Greek οὗτος οὐκ ἔστιν αὐτοῦ states non-belonging to Christ rather than a vague loss of identity.",
+			"category":"archaic-english-drift",
+			"key_term":"εἰμί",
+			"english_drift":"“none of his” = in early modern English, “not one belonging to him \/ not his”; in modern English it can sound opaque or merely idiomatic rather than explicitly possessive.",
+			"textual_note":"",
+			"cross_refs":[
+				"1 Cor 3:16",
+				"Gal 4:6",
+				"Rom 8:14"
+			],
+			"explanation":"There is no meaningful TR\/SBLGNT divergence here; the issue is chiefly idiom and aspect. οὗτος οὐκ ἔστιν αὐτοῦ is a genitive of possession or relationship: “this one is not his,” i.e. does not belong to Christ. The KJV’s “he is none of his” was intelligible early modern English, but now risks opacity; the modern rendering makes the possessive force explicit. Likewise “if so be that” renders εἴπερ, which BDAG treats as “if indeed \/ if in fact”; with the indicative οἰκεῖ it is not a subjunctive “might dwell,” but a condition assumed for Paul’s addressees. The KJV’s bare “dwell” also reflects older English verbal usage, whereas “dwells” marks the present indicative more transparently. The alternation “Spirit of God” \/ “Spirit of Christ” is in the Greek and is theologically significant, but not a KJV addition."
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “he is none of his” is an older possessive idiom meaning “does not belong to him,” while the Greek οὗτος οὐκ ἔστιν αὐτοῦ states non-belonging to Christ rather than a vague loss of identity.\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"εἰμί\",\n  \"english_drift\": \"“none of his” = in early modern English, “not one belonging to him \/ not his”; in modern English it can sound opaque or merely idiomatic rather than explicitly possessive.\",\n  \"textual_note\": \"\",\n  \"cross_refs\": [\n    \"1 Cor 3:16\",\n    \"Gal 4:6\",\n    \"Rom 8:14\"\n  ],\n  \"explanation\": \"There is no meaningful TR\/SBLGNT divergence here; the issue is chiefly idiom and aspect. οὗτος οὐκ ἔστιν αὐτοῦ is a genitive of possession or relationship: “this one is not his,” i.e. does not belong to Christ. The KJV’s “he is none of his” was intelligible early modern English, but now risks opacity; the modern rendering makes the possessive force explicit. Likewise “if so be that” renders εἴπερ, which BDAG treats as “if indeed \/ if in fact”; with the indicative οἰκεῖ it is not a subjunctive “might dwell,” but a condition assumed for Paul’s addressees. The KJV’s bare “dwell” also reflects older English verbal usage, whereas “dwells” marks the present indicative more transparently. The alternation “Spirit of God” \/ “Spirit of Christ” is in the Greek and is theologically significant, but not a KJV addition.\"\n}"
+	},
+	{
+		"ref":"Ro 8:38",
+		"greek":"πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις",
+		"kjv":"For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,",
+		"modern":"For I am convinced that neither death nor life nor angels nor rulers nor things present nor things to come nor powers",
+		"distance":0.14487255313887937,
+		"nuance":{
+			"primary_nuance":"The KJV follows the Textus Receptus\/Byzantine order by placing “powers” immediately after “principalities,” whereas the SBLGNT separates δυνάμεις and leaves it after “things to come.”",
+			"category":"textual-variant",
+			"key_term":"δύναμις",
+			"english_drift":"“principalities”: in KJV usage, ruling authorities or high angelic orders; in modern English, chiefly territories ruled by a prince.",
+			"textual_note":"SBLGNT\/NA28 reads οὔτε ἀρχαὶ οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις, supported by early Alexandrian witnesses such as P46, Sinaiticus, Vaticanus, and Alexandrinus. The KJV\/TR\/Byzantine order is οὔτε ἀρχαὶ οὔτε δυνάμεις οὔτε ἐνεστῶτα οὔτε μέλλοντα. Metzger does not discuss this minor transposition.",
+			"cross_refs":[
+				"Eph 1:21",
+				"Eph 6:12",
+				"Col 1:16"
+			],
+			"explanation":"The substantive difference is not “persuaded” versus “convinced”—πέπεισμαι, perfect passive of πείθω, means “I stand convinced”—but the placement of δυνάμεις. The KJV’s “nor principalities, nor powers, nor things present...” reflects the TR\/Byzantine tendency to pair ἀρχαί and δυνάμεις, familiar from Pauline catalogues of cosmic authorities. The SBLGNT\/NA order, “rulers ... things present ... things to come ... powers,” is less tidy and therefore plausibly prior. Lexically, “principalities” for ἀρχαί is defensible in early modern English, where the word could denote ruling authorities or angelic orders, but it now often suggests geographical states; “rulers” better signals the active, personal\/cosmic force implied by BDAG s.v. ἀρχή. Conversely, “powers” remains a good rendering of δυνάμεις, though in Paul it can denote supra-human forces rather than abstract capacities."
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV follows the Textus Receptus\/Byzantine order by placing “powers” immediately after “principalities,” whereas the SBLGNT separates δυνάμεις and leaves it after “things to come.”\",\n  \"category\": \"textual-variant\",\n  \"key_term\": \"δύναμις\",\n  \"english_drift\": \"“principalities”: in KJV usage, ruling authorities or high angelic orders; in modern English, chiefly territories ruled by a prince.\",\n  \"textual_note\": \"SBLGNT\/NA28 reads οὔτε ἀρχαὶ οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις, supported by early Alexandrian witnesses such as P46, Sinaiticus, Vaticanus, and Alexandrinus. The KJV\/TR\/Byzantine order is οὔτε ἀρχαὶ οὔτε δυνάμεις οὔτε ἐνεστῶτα οὔτε μέλλοντα. Metzger does not discuss this minor transposition.\",\n  \"cross_refs\": [\n    \"Eph 1:21\",\n    \"Eph 6:12\",\n    \"Col 1:16\"\n  ],\n  \"explanation\": \"The substantive difference is not “persuaded” versus “convinced”—πέπεισμαι, perfect passive of πείθω, means “I stand convinced”—but the placement of δυνάμεις. The KJV’s “nor principalities, nor powers, nor things present...” reflects the TR\/Byzantine tendency to pair ἀρχαί and δυνάμεις, familiar from Pauline catalogues of cosmic authorities. The SBLGNT\/NA order, “rulers ... things present ... things to come ... powers,” is less tidy and therefore plausibly prior. Lexically, “principalities” for ἀρχαί is defensible in early modern English, where the word could denote ruling authorities or angelic orders, but it now often suggests geographical states; “rulers” better signals the active, personal\/cosmic force implied by BDAG s.v. ἀρχή. Conversely, “powers” remains a good rendering of δυνάμεις, though in Paul it can denote supra-human forces rather than abstract capacities.\"\n}"
+	},
+	{
+		"ref":"Ro 8:32",
+		"greek":"ὅς γε τοῦ ἰδίου υἱοῦ οὐκ ἐφείσατο, ἀλλὰ ὑπὲρ ἡμῶν πάντων παρέδωκεν αὐτόν, πῶς οὐχὶ καὶ σὺν αὐτῷ τὰ πάντα ἡμῖν χαρίσεται;",
+		"kjv":"He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?",
+		"modern":"He indeed did not spare his own Son but handed him over for us all; how will he not also, with him, graciously give us all things?",
+		"distance":0.13868972774955257,
+		"nuance":{
+			"primary_nuance":"KJV “freely give” is substantially right for χαρίσεται, but the modern “graciously give” makes explicit the χάρις-colored nuance of giving as favor rather than merely giving without cost.",
+			"category":"archaic-english-drift",
+			"key_term":"χαρίζομαι",
+			"english_drift":"“freely give”: in early modern English, ‘freely’ could mean gratuitously, generously, or of free favor; in modern usage it often suggests merely without cost, restraint, or compulsion.",
+			"textual_note":"",
+			"cross_refs":[
+				"Ro 4:25",
+				"1 Co 2:12",
+				"Gal 2:20"
+			],
+			"explanation":"There is no significant TR\/SBLGNT divergence here; the KJV is not translating an added Byzantine phrase. The main nuance lies in χαρίσεται, future middle of χαρίζομαι. BDAG s.v. χαρίζομαι gives the relevant sense “give freely\/graciously as a favor,” distinct from a neutral δίδωμι. KJV “freely give” was a good seventeenth-century rendering: “freely” could denote generous, gratuitous, favor-bestowing action. For many modern readers, however, “freely” narrows toward “without charge” or “unrestrictedly,” so “graciously give” better preserves the lexical association with χάρις. The KJV also omits an overt equivalent for γε in ὅς γε, which gives a mild emphatic force: “he indeed \/ the very one who.” “Delivered him up” remains an apt rendering of παρέδωκεν, though “handed him over” more directly evokes Paul’s παραδίδωμι language in Rom 4:25 and Gal 2:20."
+		},
+		"raw":"{\n  \"primary_nuance\": \"KJV “freely give” is substantially right for χαρίσεται, but the modern “graciously give” makes explicit the χάρις-colored nuance of giving as favor rather than merely giving without cost.\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"χαρίζομαι\",\n  \"english_drift\": \"“freely give”: in early modern English, ‘freely’ could mean gratuitously, generously, or of free favor; in modern usage it often suggests merely without cost, restraint, or compulsion.\",\n  \"textual_note\": \"\",\n  \"cross_refs\": [\n    \"Ro 4:25\",\n    \"1 Co 2:12\",\n    \"Gal 2:20\"\n  ],\n  \"explanation\": \"There is no significant TR\/SBLGNT divergence here; the KJV is not translating an added Byzantine phrase. The main nuance lies in χαρίσεται, future middle of χαρίζομαι. BDAG s.v. χαρίζομαι gives the relevant sense “give freely\/graciously as a favor,” distinct from a neutral δίδωμι. KJV “freely give” was a good seventeenth-century rendering: “freely” could denote generous, gratuitous, favor-bestowing action. For many modern readers, however, “freely” narrows toward “without charge” or “unrestrictedly,” so “graciously give” better preserves the lexical association with χάρις. The KJV also omits an overt equivalent for γε in ὅς γε, which gives a mild emphatic force: “he indeed \/ the very one who.” “Delivered him up” remains an apt rendering of παρέδωκεν, though “handed him over” more directly evokes Paul’s παραδίδωμι language in Rom 4:25 and Gal 2:20.\"\n}"
+	}
+]

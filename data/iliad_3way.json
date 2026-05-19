@@ -1,0 +1,94 @@
+[
+	{
+		"ref":"Il. 1.1-7 (the proem)",
+		"greek":"μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος οὐλομένην, ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε, πολλὰς δ᾽ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν οἰωνοῖσί τε πᾶσι, Διὸς δ᾽ ἐτελείετο βουλή, ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς.",
+		"pope":"Achilles' wrath, to Greece the direful spring Of woes unnumber'd, heavenly goddess, sing! That wrath which hurl'd to Pluto's gloomy reign The souls of mighty chiefs untimely slain; Whose limbs unburied on the naked shore, Devouring dogs and hungry vultures tore. Since great Achilles and Atrides strove, Such was the sovereign doom, and such the will of Jove!",
+		"butler":"Sing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans. Many a brave soul did it send hurrying down to Hades, and many a hero did it yield a prey to dogs and vultures, for so were the counsels of Jove fulfilled from the day on which the son of Atreus, king of men, and great Achilles, first fell out with one another.",
+		"modern":"Sing, goddess, the ruinous wrath of Achilles son of Peleus,\nwhich laid countless pains upon the Achaeans,\nand sent forth to Hades many strong souls of heroes,\nand made them themselves spoil for dogs\nand for all birds; and the plan of Zeus was being brought to fulfillment,\nfrom the time when first they two stood apart in strife,\nthe son of Atreus, lord of men, and brilliant Achilles.",
+		"labels":[
+			"greek",
+			"pope",
+			"butler",
+			"modern"
+		],
+		"nuance":{
+			"headline":"Pope turns Homer’s compressed causal proem into a neoclassical tableau, Butler paraphrases it into fluent prose, while the modern version tries to preserve the Greek’s formulaic pressure and syntax.",
+			"pope_signature":"Pope’s characteristic move is expansion: he retains the agency of wrath but ornaments it with causal metaphor, affective adjectives, and Latinate mythological diction. Phrases such as “direful spring,” “gloomy reign,” “naked shore,” and “sovereign doom” are not in the Greek.",
+			"butler_signature":"Butler is semantically closer than Pope, but his prose often domesticates epic formula into plain narrative. His “anger,” “fell out,” and “great Achilles” flatten the marked diction of μῆνιν, διαστήτην ἐρίσαντε, and δῖος Ἀχιλλεύς.",
+			"greek_lemma":"οὐλομένην",
+			"explanation":"The pivotal Greek is μῆνιν, immediately qualified by οὐλομένην: not generic anger but a destructive wrath with epic agency. Modern keeps this compactly (“ruinous wrath”) and Butler reduces it to “anger,” omitting the participial epithet; Pope keeps “wrath” but amplifies it into “the direful spring \/ Of woes unnumber’d,” a causal metaphor not in ἣ μυρί᾽ ... ἄλγε᾽ ἔθηκε (“which laid countless pains”). Pope’s neoclassical hand is still more visible in “Pluto’s gloomy reign,” “untimely slain,” “naked shore,” “hungry vultures,” and “sovereign doom”: none corresponds to Ἄϊδι, ἑλώρια, οἰωνοῖσί τε πᾶσι, or Διὸς ... βουλή, though they ornament and moralize the scene. Butler’s prose is generally semantically conservative, but it flattens formulaic texture: δῖος Ἀχιλλεύς becomes “great Achilles”; Ἀτρεΐδης τε ἄναξ ἀνδρῶν is translated rather than allowed as a resonant epithet; διαστήτην ἐρίσαντε becomes colloquial “fell out,” losing the physicalized “stood apart in strife.” He also blurs the sharp ψυχάς\/αὐτούς contrast by “many a brave soul ... many a hero,” whereas the Modern renders the bodies as “them themselves spoil.” The cosine distances corroborate this reading at a coarse level: Butler–Modern is closest (0.139), while Pope is farther from both. They also reveal only surface\/semantic affinity, not philological fidelity: Pope–Modern’s slight closeness over Pope–Butler likely reflects shared “wrath” and high-register diction, but the numbers cannot detect Pope’s added “gloomy,” “hungry,” or “sovereign doom,” nor Butler’s loss of πᾶσι (“all”)."
+		},
+		"dmat":[
+			[
+				0.0,
+				0.8315990537714512,
+				0.8061625992519191,
+				0.8094722483820549
+			],
+			[
+				0.8315990537714512,
+				0.0,
+				0.19959074054198855,
+				0.19144580178366466
+			],
+			[
+				0.8061625992519191,
+				0.19959074054198855,
+				0.0,
+				0.13895157685502868
+			],
+			[
+				0.8094722483820549,
+				0.19144580178366466,
+				0.13895157685502868,
+				0.0
+			]
+		]
+	},
+	{
+		"ref":"Il. 1.225-228 (Achilles to Agamemnon)",
+		"greek":"οἰνοβαρές, κυνὸς ὄμματ᾽ ἔχων, κραδίην δ᾽ ἐλάφοιο, οὔτε ποτ᾽ ἐς πόλεμον ἅμα λαῷ θωρηχθῆναι οὔτε λόχονδ᾽ ἰέναι σὺν ἀριστήεσσιν Ἀχαιῶν τέτληκας θυμῷ· τὸ δέ τοι κὴρ εἴδεται εἶναι.",
+		"pope":"O monster, mix'd of insolence and fear, Thou dog in forehead, but in heart a deer! When wert thou known in ambush'd fights to dare, Or nobly face the horrid front of war? 'Tis ours, the chance of fighting fields to try; Thine to look on, and bid the valiant die.",
+		"butler":"Wine-bibber, with the face of a dog and the heart of a hind, you never dare to go out with the host in fight, nor yet with our chosen men in ambuscade. You shun this as you do death itself.",
+		"modern":"Wine-soaked, with the eyes of a dog and the heart of a deer, you have never yet dared in your spirit either to arm yourself for battle with the host or to go into ambush with the best of the Achaeans; that, to your heart, seems to be death.",
+		"labels":[
+			"greek",
+			"pope",
+			"butler",
+			"modern"
+		],
+		"nuance":{
+			"headline":"Pope converts Homer’s compact abuse into Augustan moral spectacle, while Butler stays denotatively close but smooths away formulaic and imagistic sharpness.",
+			"pope_signature":"Pope’s characteristic move is amplification: he personifies and moralizes what Homer leaves as brutal epithets and infinitives. His couplet logic adds antitheses and judgments absent from the Greek.",
+			"butler_signature":"Butler’s prose tracks the sense more closely, but it domesticates Homeric diction. He often translates formulaic or embodied language into serviceable English idiom.",
+			"greek_lemma":"κὴρ",
+			"explanation":"The Greek insult is paratactic and formulaic: οἰνοβαρές, κυνὸς ὄμματ᾽ ἔχων, κραδίην δ᾽ ἐλάφοιο gives three blows, then two infinitival tests governed by τέτληκας θυμῷ. Pope turns this into moral theatre. “O monster, mix’d of insolence and fear” has no lexical counterpart; neither do “nobly,” “the horrid front of war,” or the closing antithesis “’Tis ours...Thine...” He recasts Achilles’ taunt as a neoclassical indictment of command, expanding τὸ δέ τοι κὴρ εἴδεται εἶναι into Agamemnon’s habit of watching and making others die. Butler is much closer in reference, but his prose often de-formularizes. κυνὸς ὄμματ᾽ becomes “the face of a dog,” losing the pointed “eyes”; ἐς πόλεμον ἅμα λαῷ θωρηχθῆναι, literally “to arm yourself for war with the people\/host,” becomes the generic “go out with the host in fight”; ἀριστήεσσιν Ἀχαιῶν becomes “our chosen men,” not “the best of the Achaeans.” Most consequentially, τέτληκας θυμῷ and κὴρ are flattened into idiom: “You shun this as you do death itself,” whereas Homer says it “seems to you to be death\/doom,” locating cowardice in perception and θυμός. The distances corroborate, rather than explain, this: Butler–Modern (.244) is lowest because both preserve the line’s denotative scaffold; Pope is farther (.343\/.384) because of couplet amplification. They also reveal that vector proximity can miss philological texture: Butler’s close score coexists with losses in formula, anatomy, and heroic register."
+		},
+		"dmat":[
+			[
+				0.0,
+				0.9304878349794252,
+				0.9262163502150509,
+				0.8427078597805254
+			],
+			[
+				0.9304878349794252,
+				0.0,
+				0.3432336230321327,
+				0.3840206415753433
+			],
+			[
+				0.9262163502150509,
+				0.3432336230321327,
+				0.0,
+				0.2436245512624604
+			],
+			[
+				0.8427078597805254,
+				0.3840206415753433,
+				0.2436245512624604,
+				0.0
+			]
+		]
+	}
+]

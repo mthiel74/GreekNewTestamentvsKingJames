@@ -1,0 +1,170 @@
+[
+	{
+		"ref":"1Co 13:10",
+		"greek":"ὅταν δὲ ἔλθῃ τὸ τέλειον, τὸ ἐκ μέρους καταργηθήσεται.",
+		"kjv":"But when that which is perfect is come, then that which is in part shall be done away.",
+		"modern":"But when the complete comes, what is partial will be brought to an end.",
+		"distance":0.3207515081444636,
+		"nuance":{
+			"primary_nuance":"The KJV’s “perfect” is not wrong in its seventeenth-century sense, but modern “complete” better marks τὸ τέλειον as the whole set over against τὸ ἐκ μέρους rather than moral flawlessness.",
+			"category":"archaic-english-drift",
+			"key_term":"τέλειος",
+			"english_drift":"perfect: in 1611, “complete, finished, fully formed” (OED perfect, adj.); today often “flawless” or morally faultless.",
+			"textual_note":"KJV “then” corresponds to τότε in the TR and Byzantine\/Majority tradition; SBLGNT\/NA28 omit τότε with early Alexandrian witnesses such as P46 א B 33 1739. This minor variant is not treated in Metzger’s Textual Commentary.",
+			"cross_refs":[
+				"1Co 13:9",
+				"1Co 13:12",
+				"Eph 4:13"
+			],
+			"explanation":"One small textual item precedes the lexical issue: KJV “then” represents τότε in the TR\/Byzantine text, whereas SBLGNT omits it; semantically, however, English naturally supplies a correlative after ὅταν. The larger nuance is τέλειον. In seventeenth-century English “perfect” could mean “complete, finished, fully formed” (OED, perfect adj.), but modern readers often hear “flawless” or morally perfect. Paul’s contrast is formal: τὸ τέλειον, a neuter substantival adjective, stands over against τὸ ἐκ μέρους (“what is partial\/in part”; cf. v. 9), as v. 12’s mirror\/face-to-face antithesis confirms; it does not by itself decide among “canon,” “eschaton,” or “maturity.” καταργηθήσεται is future passive of καταργέω, “make inoperative\/abolish, bring to an end” (BDAG), so KJV “done away” is essentially right but vaguer. KJV “is come” is an older English perfect construction for ὅταν + aorist subjunctive ἔλθῃ."
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “perfect” is not wrong in its seventeenth-century sense, but modern “complete” better marks τὸ τέλειον as the whole set over against τὸ ἐκ μέρους rather than moral flawlessness.\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"τέλειος\",\n  \"english_drift\": \"perfect: in 1611, “complete, finished, fully formed” (OED perfect, adj.); today often “flawless” or morally faultless.\",\n  \"textual_note\": \"KJV “then” corresponds to τότε in the TR and Byzantine\/Majority tradition; SBLGNT\/NA28 omit τότε with early Alexandrian witnesses such as P46 א B 33 1739. This minor variant is not treated in Metzger’s Textual Commentary.\",\n  \"cross_refs\": [\n    \"1Co 13:9\",\n    \"1Co 13:12\",\n    \"Eph 4:13\"\n  ],\n  \"explanation\": \"One small textual item precedes the lexical issue: KJV “then” represents τότε in the TR\/Byzantine text, whereas SBLGNT omits it; semantically, however, English naturally supplies a correlative after ὅταν. The larger nuance is τέλειον. In seventeenth-century English “perfect” could mean “complete, finished, fully formed” (OED, perfect adj.), but modern readers often hear “flawless” or morally perfect. Paul’s contrast is formal: τὸ τέλειον, a neuter substantival adjective, stands over against τὸ ἐκ μέρους (“what is partial\/in part”; cf. v. 9), as v. 12’s mirror\/face-to-face antithesis confirms; it does not by itself decide among “canon,” “eschaton,” or “maturity.” καταργηθήσεται is future passive of καταργέω, “make inoperative\/abolish, bring to an end” (BDAG), so KJV “done away” is essentially right but vaguer. KJV “is come” is an older English perfect construction for ὅταν + aorist subjunctive ἔλθῃ.\"\n}"
+	},
+	{
+		"ref":"1Co 13:4",
+		"greek":"Ἡ ἀγάπη μακροθυμεῖ, χρηστεύεται ἡ ἀγάπη, οὐ ζηλοῖ ἡ ἀγάπη, οὐ περπερεύεται, οὐ φυσιοῦται,",
+		"kjv":"Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,",
+		"modern":"Love is patient; love is kind; love does not envy; it does not boast; it is not puffed up.",
+		"distance":0.28983998477636974,
+		"nuance":{
+			"primary_nuance":"The KJV’s “charity” was a plausible 1611 rendering of ἀγάπη as Christian caritas, but in contemporary English it misleadingly narrows toward almsgiving rather than Pauline self-giving love.",
+			"category":"archaic-english-drift",
+			"key_term":"ἀγάπη",
+			"english_drift":"“charity” = in 1611, Christian love\/benevolent affection, caritas; today, chiefly almsgiving, philanthropy, or a charitable institution. “suffereth long” = patiently endures\/forbears; today “suffer” chiefly suggests experiencing pain.",
+			"textual_note":"",
+			"cross_refs":[
+				"1Co 8:1",
+				"Gal 5:22",
+				"2Co 6:6"
+			],
+			"explanation":"The substantive KJV\/modern difference is not textual: the issue is 17th-century English and register. ἀγάπη is rendered “charity,” following ecclesiastical caritas; in 1611 this could mean Christian love or benevolent affection, whereas present-day English usually hears almsgiving or charitable institutions. “Love” is therefore semantically wider but less misleading to modern readers, though it can lose the specifically ethical, self-giving valence that Pauline ἀγάπη carries (BDAG s.v. ἀγάπη). “Suffereth long” translates μακροθυμεῖ fairly literally, “be patient, forbearing”; today “suffer” suggests undergoing pain, not chiefly tolerating provocation. The Greek is a chain of gnomic presents, personifying love by what it habitually does and does not do. “Vaunteth not itself” is an archaic but close rendering of περπερεύεται, “brag, boast” (BDAG; NT hapax), while “is not puffed up” nicely preserves Paul’s favorite Corinthian metaphor φυσιοῦται for arrogance."
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “charity” was a plausible 1611 rendering of ἀγάπη as Christian caritas, but in contemporary English it misleadingly narrows toward almsgiving rather than Pauline self-giving love.\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"ἀγάπη\",\n  \"english_drift\": \"“charity” = in 1611, Christian love\/benevolent affection, caritas; today, chiefly almsgiving, philanthropy, or a charitable institution. “suffereth long” = patiently endures\/forbears; today “suffer” chiefly suggests experiencing pain.\",\n  \"textual_note\": \"\",\n  \"cross_refs\": [\n    \"1Co 8:1\",\n    \"Gal 5:22\",\n    \"2Co 6:6\"\n  ],\n  \"explanation\": \"The substantive KJV\/modern difference is not textual: the issue is 17th-century English and register. ἀγάπη is rendered “charity,” following ecclesiastical caritas; in 1611 this could mean Christian love or benevolent affection, whereas present-day English usually hears almsgiving or charitable institutions. “Love” is therefore semantically wider but less misleading to modern readers, though it can lose the specifically ethical, self-giving valence that Pauline ἀγάπη carries (BDAG s.v. ἀγάπη). “Suffereth long” translates μακροθυμεῖ fairly literally, “be patient, forbearing”; today “suffer” suggests undergoing pain, not chiefly tolerating provocation. The Greek is a chain of gnomic presents, personifying love by what it habitually does and does not do. “Vaunteth not itself” is an archaic but close rendering of περπερεύεται, “brag, boast” (BDAG; NT hapax), while “is not puffed up” nicely preserves Paul’s favorite Corinthian metaphor φυσιοῦται for arrogance.\"\n}"
+	},
+	{
+		"ref":"1Co 13:5",
+		"greek":"οὐκ ἀσχημονεῖ, οὐ ζητεῖ τὰ ἑαυτῆς, οὐ παροξύνεται, οὐ λογίζεται τὸ κακόν,",
+		"kjv":"Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;",
+		"modern":"It does not behave disgracefully, does not seek its own interests, is not provoked, does not keep account of wrong;",
+		"distance":0.2717928526752085,
+		"nuance":{
+			"primary_nuance":"The KJV’s “not easily provoked” weakens Paul’s unqualified οὐ παροξύνεται: the Greek says love “is not provoked,” with no adverb corresponding to “easily.”",
+			"category":"translation-style",
+			"key_term":"παροξύνω",
+			"english_drift":"",
+			"textual_note":"No relevant TR\/Byzantine addition underlies “easily”; SBLGNT and the KJV’s Greek base read οὐ παροξύνεται here.",
+			"cross_refs":[
+				"Acts 17:16",
+				"2 Corinthians 5:19",
+				"Romans 4:8"
+			],
+			"explanation":"Two small differences matter. First, οὐ παροξύνεται is present passive\/middle, “is not provoked\/irritated” (BDAG s.v. παροξύνω); the KJV’s “easily” is interpretive mitigation, not a Greek word and not a known textual variant. It makes Paul say that love is not quickly provoked, whereas the clause as written is starker. Secondly, “thinketh no evil” can mislead modern readers toward mere cognition. λογίζεται τὸ κακόν more naturally evokes reckoning, counting, or keeping an account (BDAG s.v. λογίζομαι), as in 2 Cor 5:19 and Rom 4:8. Thus the modern “does not keep account of wrong” better catches the bookkeeping metaphor. “Behave itself unseemly” is fairly literal for ἀσχημονεῖ, though “disgracefully” or “dishonorably” is clearer contemporary English."
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “not easily provoked” weakens Paul’s unqualified οὐ παροξύνεται: the Greek says love “is not provoked,” with no adverb corresponding to “easily.”\",\n  \"category\": \"translation-style\",\n  \"key_term\": \"παροξύνω\",\n  \"english_drift\": \"\",\n  \"textual_note\": \"No relevant TR\/Byzantine addition underlies “easily”; SBLGNT and the KJV’s Greek base read οὐ παροξύνεται here.\",\n  \"cross_refs\": [\n    \"Acts 17:16\",\n    \"2 Corinthians 5:19\",\n    \"Romans 4:8\"\n  ],\n  \"explanation\": \"Two small differences matter. First, οὐ παροξύνεται is present passive\/middle, “is not provoked\/irritated” (BDAG s.v. παροξύνω); the KJV’s “easily” is interpretive mitigation, not a Greek word and not a known textual variant. It makes Paul say that love is not quickly provoked, whereas the clause as written is starker. Secondly, “thinketh no evil” can mislead modern readers toward mere cognition. λογίζεται τὸ κακόν more naturally evokes reckoning, counting, or keeping an account (BDAG s.v. λογίζομαι), as in 2 Cor 5:19 and Rom 4:8. Thus the modern “does not keep account of wrong” better catches the bookkeeping metaphor. “Behave itself unseemly” is fairly literal for ἀσχημονεῖ, though “disgracefully” or “dishonorably” is clearer contemporary English.\"\n}"
+	},
+	{
+		"ref":"1Co 13:3",
+		"greek":"καὶ ἐὰν ψωμίσω πάντα τὰ ὑπάρχοντά μου, καὶ ἐὰν παραδῶ τὸ σῶμά μου, ἵνα καυθήσομαι, ἀγάπην δὲ μὴ ἔχω, οὐδὲν ὠφελοῦμαι.",
+		"kjv":"And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.",
+		"modern":"And if I parcel out all my possessions, and if I hand over my body so that I will be burned, but do not have love, I gain nothing.",
+		"distance":0.25046481943126886,
+		"nuance":{
+			"primary_nuance":"KJV “charity” meant caritas\/Christian love in 1611, whereas for many modern readers it suggests almsgiving—the very act Paul says can occur without ἀγάπη.",
+			"category":"archaic-english-drift",
+			"key_term":"ἀγάπη",
+			"english_drift":"“charity”: OED charity n. I.1a, Christian love\/caritas; modern dominant sense, benevolent giving or relief of the poor.",
+			"textual_note":"No KJV-versus-supplied-SBLGNT divergence on “be burned”; both reflect καυθήσομαι\/καυθήσωμαι. The wider tradition is divided: NA\/UBS prefer καυχήσωμαι, “that I may boast,” supported by early Alexandrian witnesses such as P46, א, A, B; “be burned” is strongly Byzantine\/Western, including C, D, F, G, K, L, Ψ and the Majority tradition. Metzger discusses this well-known variant.",
+			"cross_refs":[
+				"1 Cor 13:1-2",
+				"Rom 12:20",
+				"John 13:35"
+			],
+			"explanation":"The chief KJV-modern difference is not that “charity” was wrong, but that it has drifted. In 1611 “charity” naturally rendered ἀγάπη as caritas, Christian love; today it often denotes almsgiving, which would blur Paul’s paradox: one may ψωμίζω “parcel out\/feed in portions” all one’s possessions and still lack ἀγάπη. BDAG s.v. ψωμίζω notes the concrete sense of feeding with morsels and the extended sense of distributing food or goods; hence the modern “parcel out” catches a nuance KJV “bestow” flattens, while KJV’s “to feed the poor” makes explicit a recipient not named in πάντα τὰ ὑπάρχοντά μου. Finally, “give” is less vivid than παραδῶ, “hand over\/deliver up.” The supplied Greek’s ἵνα καυθήσομαι is also syntactically striking, since ἵνα normally governs the subjunctive; the modern “so that I will be burned” preserves that future-indicative force more visibly than KJV “to be burned.”"
+		},
+		"raw":"{\n  \"primary_nuance\": \"KJV “charity” meant caritas\/Christian love in 1611, whereas for many modern readers it suggests almsgiving—the very act Paul says can occur without ἀγάπη.\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"ἀγάπη\",\n  \"english_drift\": \"“charity”: OED charity n. I.1a, Christian love\/caritas; modern dominant sense, benevolent giving or relief of the poor.\",\n  \"textual_note\": \"No KJV-versus-supplied-SBLGNT divergence on “be burned”; both reflect καυθήσομαι\/καυθήσωμαι. The wider tradition is divided: NA\/UBS prefer καυχήσωμαι, “that I may boast,” supported by early Alexandrian witnesses such as P46, א, A, B; “be burned” is strongly Byzantine\/Western, including C, D, F, G, K, L, Ψ and the Majority tradition. Metzger discusses this well-known variant.\",\n  \"cross_refs\": [\n    \"1 Cor 13:1-2\",\n    \"Rom 12:20\",\n    \"John 13:35\"\n  ],\n  \"explanation\": \"The chief KJV-modern difference is not that “charity” was wrong, but that it has drifted. In 1611 “charity” naturally rendered ἀγάπη as caritas, Christian love; today it often denotes almsgiving, which would blur Paul’s paradox: one may ψωμίζω “parcel out\/feed in portions” all one’s possessions and still lack ἀγάπη. BDAG s.v. ψωμίζω notes the concrete sense of feeding with morsels and the extended sense of distributing food or goods; hence the modern “parcel out” catches a nuance KJV “bestow” flattens, while KJV’s “to feed the poor” makes explicit a recipient not named in πάντα τὰ ὑπάρχοντά μου. Finally, “give” is less vivid than παραδῶ, “hand over\/deliver up.” The supplied Greek’s ἵνα καυθήσομαι is also syntactically striking, since ἵνα normally governs the subjunctive; the modern “so that I will be burned” preserves that future-indicative force more visibly than KJV “to be burned.”\"\n}"
+	},
+	{
+		"ref":"1Co 13:8",
+		"greek":"Ἡ ἀγάπη οὐδέποτε πίπτει. εἴτε δὲ προφητεῖαι, καταργηθήσονται· εἴτε γλῶσσαι, παύσονται· εἴτε γνῶσις, καταργηθήσεται.",
+		"kjv":"Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.",
+		"modern":"Love never falls. But whether prophecies, they will be brought to an end; whether tongues, they will cease; whether knowledge, it will be brought to an end.",
+		"distance":0.24273550138341005,
+		"nuance":{
+			"primary_nuance":"The KJV’s ‘Charity never faileth’ reflects both archaic ‘charity’ for ἀγάπη and the TR\/Byzantine compound ἐκπίπτει, whereas the SBLGNT has the simpler πίπτει, ‘falls.’",
+			"category":"textual-variant",
+			"key_term":"πίπτω\/ἐκπίπτω",
+			"english_drift":"‘Charity’: OED charity n. I.1, Christian caritas or self-giving love; modern English often narrows it to almsgiving or benevolent aid.",
+			"textual_note":"SBLGNT\/NA28 read πίπτει, supported especially by early Alexandrian evidence such as 𝔓46 and B; the TR and Majority\/Byzantine tradition read ἐκπίπτει, underlying the KJV’s ‘faileth.’",
+			"cross_refs":[
+				"Romans 9:6",
+				"1 Corinthians 13:13",
+				"1 Corinthians 1:28"
+			],
+			"explanation":"The sharpest difference is at the opening verb. SBLGNT reads ἡ ἀγάπη οὐδέποτε πίπτει, literally ‘love never falls’; the KJV follows the TR\/Byzantine ἐκπίπτει, hence ‘never faileth.’ The compound ἐκπίπτω more readily means ‘fall from, be lost, come to nothing’ (BDAG s.v. ἐκπίπτω), so the KJV is not merely stylistic there. ‘Charity,’ however, is also not modern ‘almsgiving’: in 1611 it conveys OED charity n. I.1, Christian caritas\/love. The remaining three clauses preserve an important Greek contrast only partly visible in the KJV: προφητεῖαι and γνῶσις take καταργηθήσονται\/καταργηθήσεται, future passives from καταργέω, ‘be rendered inoperative, abolished’ (BDAG s.v. καταργέω), whereas γλῶσσαι παύσονται is future middle\/intransitive, ‘will cease.’ Thus ‘prophecies shall fail’ and ‘knowledge shall vanish away’ are idiomatic, but they can obscure the repeated passive ‘be brought to an end.’"
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s ‘Charity never faileth’ reflects both archaic ‘charity’ for ἀγάπη and the TR\/Byzantine compound ἐκπίπτει, whereas the SBLGNT has the simpler πίπτει, ‘falls.’\",\n  \"category\": \"textual-variant\",\n  \"key_term\": \"πίπτω\/ἐκπίπτω\",\n  \"english_drift\": \"‘Charity’: OED charity n. I.1, Christian caritas or self-giving love; modern English often narrows it to almsgiving or benevolent aid.\",\n  \"textual_note\": \"SBLGNT\/NA28 read πίπτει, supported especially by early Alexandrian evidence such as 𝔓46 and B; the TR and Majority\/Byzantine tradition read ἐκπίπτει, underlying the KJV’s ‘faileth.’\",\n  \"cross_refs\": [\n    \"Romans 9:6\",\n    \"1 Corinthians 13:13\",\n    \"1 Corinthians 1:28\"\n  ],\n  \"explanation\": \"The sharpest difference is at the opening verb. SBLGNT reads ἡ ἀγάπη οὐδέποτε πίπτει, literally ‘love never falls’; the KJV follows the TR\/Byzantine ἐκπίπτει, hence ‘never faileth.’ The compound ἐκπίπτω more readily means ‘fall from, be lost, come to nothing’ (BDAG s.v. ἐκπίπτω), so the KJV is not merely stylistic there. ‘Charity,’ however, is also not modern ‘almsgiving’: in 1611 it conveys OED charity n. I.1, Christian caritas\/love. The remaining three clauses preserve an important Greek contrast only partly visible in the KJV: προφητεῖαι and γνῶσις take καταργηθήσονται\/καταργηθήσεται, future passives from καταργέω, ‘be rendered inoperative, abolished’ (BDAG s.v. καταργέω), whereas γλῶσσαι παύσονται is future middle\/intransitive, ‘will cease.’ Thus ‘prophecies shall fail’ and ‘knowledge shall vanish away’ are idiomatic, but they can obscure the repeated passive ‘be brought to an end.’\"\n}"
+	},
+	{
+		"ref":"1Co 13:6",
+		"greek":"οὐ χαίρει ἐπὶ τῇ ἀδικίᾳ, συγχαίρει δὲ τῇ ἀληθείᾳ·",
+		"kjv":"Rejoiceth not in iniquity, but rejoiceth in the truth;",
+		"modern":"It does not rejoice over injustice, but rejoices with the truth.",
+		"distance":0.1777071975720973,
+		"nuance":{
+			"primary_nuance":"The KJV’s repeated “in” makes the two clauses sound syntactically parallel, whereas Paul contrasts χαίρει ἐπί + dative, “takes pleasure at\/over injustice,” with συγχαίρει + dative, “rejoices with the truth.”",
+			"category":"syntactic-compression",
+			"key_term":"συγχαίρω",
+			"english_drift":"“iniquity”: in early modern English, unrighteousness, injustice, or wrongdoing; in current usage, often a more archaic\/religious term for grave wickedness or sin.",
+			"textual_note":"",
+			"cross_refs":[
+				"1 Cor 12:26",
+				"Luke 15:6–9",
+				"Rom 1:32"
+			],
+			"explanation":"There is no significant TR\/NU issue in this half-verse; the difference is translational. The first clause has χαίρει ἐπὶ τῇ ἀδικίᾳ, where ἐπί with the dative can mark occasion or basis: love does not rejoice “at” or “over” ἀδικία, not merely “in” a sphere called iniquity. BDAG s.v. ἀδικία allows both “unrighteousness” and more socially concrete “injustice\/wrongdoing,” so “injustice” keeps a forensic-ethical edge that “iniquity” may obscure for modern readers. The second clause is sharper: συγχαίρει δὲ τῇ ἀληθείᾳ uses the compound συγχαίρω, “rejoice with, share joy with” (BDAG s.v. συγχαίρω; cf. 1 Cor 12:26). Thus the modern “rejoices with the truth” preserves Paul’s personifying idiom and the σύν-force better than KJV “rejoiceth in the truth,” which assimilates the two cola into the same English prepositional pattern."
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s repeated “in” makes the two clauses sound syntactically parallel, whereas Paul contrasts χαίρει ἐπί + dative, “takes pleasure at\/over injustice,” with συγχαίρει + dative, “rejoices with the truth.”\",\n  \"category\": \"syntactic-compression\",\n  \"key_term\": \"συγχαίρω\",\n  \"english_drift\": \"“iniquity”: in early modern English, unrighteousness, injustice, or wrongdoing; in current usage, often a more archaic\/religious term for grave wickedness or sin.\",\n  \"textual_note\": \"\",\n  \"cross_refs\": [\n    \"1 Cor 12:26\",\n    \"Luke 15:6–9\",\n    \"Rom 1:32\"\n  ],\n  \"explanation\": \"There is no significant TR\/NU issue in this half-verse; the difference is translational. The first clause has χαίρει ἐπὶ τῇ ἀδικίᾳ, where ἐπί with the dative can mark occasion or basis: love does not rejoice “at” or “over” ἀδικία, not merely “in” a sphere called iniquity. BDAG s.v. ἀδικία allows both “unrighteousness” and more socially concrete “injustice\/wrongdoing,” so “injustice” keeps a forensic-ethical edge that “iniquity” may obscure for modern readers. The second clause is sharper: συγχαίρει δὲ τῇ ἀληθείᾳ uses the compound συγχαίρω, “rejoice with, share joy with” (BDAG s.v. συγχαίρω; cf. 1 Cor 12:26). Thus the modern “rejoices with the truth” preserves Paul’s personifying idiom and the σύν-force better than KJV “rejoiceth in the truth,” which assimilates the two cola into the same English prepositional pattern.\"\n}"
+	},
+	{
+		"ref":"1Co 13:1",
+		"greek":"Ἐὰν ταῖς γλώσσαις τῶν ἀνθρώπων λαλῶ καὶ τῶν ἀγγέλων, ἀγάπην δὲ μὴ ἔχω, γέγονα χαλκὸς ἠχῶν ἢ κύμβαλον ἀλαλάζον.",
+		"kjv":"Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+		"modern":"If I speak in the tongues of humans and of angels but do not have love, I have become sounding bronze or a clanging cymbal.",
+		"distance":0.14765146348010738,
+		"nuance":{
+			"primary_nuance":"The KJV’s “charity” renders ἀγάπη in its early-modern sense of Christian caritas\/love, not the modern narrower sense of almsgiving.",
+			"category":"archaic-english-drift",
+			"key_term":"ἀγάπη",
+			"english_drift":"charity: in 1611, OED s.v. charity, ‘Christian love; caritas; benevolent affection’; in modern usage, chiefly almsgiving, relief of the poor, or a charitable institution",
+			"textual_note":"",
+			"cross_refs":[
+				"1Co 13:2",
+				"1Co 14:2",
+				"Gal 5:6"
+			],
+			"explanation":"There is no meaningful TR\/SBLGNT divergence here; the difference is primarily English. KJV “charity” is not a mistranslation of ἀγάπη, but in contemporary reception it is misleading: early-modern “charity” could denote Christian love or caritas, whereas modern “charity” often means almsgiving or philanthropic aid. BDAG s.v. ἀγάπη gives “love,” especially the self-giving love characteristic of Christian ethics. The KJV’s “Though” should also be heard concessively-hypothetically, “even if,” matching Ἐὰν with λαλῶ; Paul is not necessarily claiming actual angelic speech. “Men” renders τῶν ἀνθρώπων, i.e. humans, not males specifically. Finally, “sounding brass” and “tinkling cymbal” have shifted in force: χαλκός is bronze\/copper alloy or a resonant bronze instrument, and ἀλαλάζον suggests a loud clash or clang, not the delicate modern sense of “tinkle.” Both translations preserve γέγονα well: “I have become\/am become.”"
+		},
+		"raw":"{\n  \"primary_nuance\": \"The KJV’s “charity” renders ἀγάπη in its early-modern sense of Christian caritas\/love, not the modern narrower sense of almsgiving.\",\n  \"category\": \"archaic-english-drift\",\n  \"key_term\": \"ἀγάπη\",\n  \"english_drift\": \"charity: in 1611, OED s.v. charity, ‘Christian love; caritas; benevolent affection’; in modern usage, chiefly almsgiving, relief of the poor, or a charitable institution\",\n  \"textual_note\": \"\",\n  \"cross_refs\": [\n    \"1Co 13:2\",\n    \"1Co 14:2\",\n    \"Gal 5:6\"\n  ],\n  \"explanation\": \"There is no meaningful TR\/SBLGNT divergence here; the difference is primarily English. KJV “charity” is not a mistranslation of ἀγάπη, but in contemporary reception it is misleading: early-modern “charity” could denote Christian love or caritas, whereas modern “charity” often means almsgiving or philanthropic aid. BDAG s.v. ἀγάπη gives “love,” especially the self-giving love characteristic of Christian ethics. The KJV’s “Though” should also be heard concessively-hypothetically, “even if,” matching Ἐὰν with λαλῶ; Paul is not necessarily claiming actual angelic speech. “Men” renders τῶν ἀνθρώπων, i.e. humans, not males specifically. Finally, “sounding brass” and “tinkling cymbal” have shifted in force: χαλκός is bronze\/copper alloy or a resonant bronze instrument, and ἀλαλάζον suggests a loud clash or clang, not the delicate modern sense of “tinkle.” Both translations preserve γέγονα well: “I have become\/am become.”\"\n}"
+	},
+	{
+		"ref":"1Co 13:2",
+		"greek":"καὶ ἐὰν ἔχω προφητείαν καὶ εἰδῶ τὰ μυστήρια πάντα καὶ πᾶσαν τὴν γνῶσιν, καὶ ἐὰν ἔχω πᾶσαν τὴν πίστιν ὥστε ὄρη μεθιστάναι, ἀγάπην δὲ μὴ ἔχω, οὐθέν εἰμι.",
+		"kjv":"And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.",
+		"modern":"And if I have prophecy and know all the mysteries and all knowledge, and if I have all faith so as to move mountains but do not have love, I am nothing.",
+		"distance":0.13539086866429217,
+		"nuance":{
+			"primary_nuance":"The main difference is KJV “charity”: in 1611 it denoted caritas, Christian self-giving love, whereas for many modern readers it now suggests almsgiving or benevolent donation.",
+			"category":"archaic-english-drift",
+			"key_term":"ἀγάπη",
+			"english_drift":"“charity” = in 1611, Christian love\/benevolence, caritas; now often narrowed to almsgiving, philanthropy, or aid to the poor.",
+			"textual_note":"",
+			"cross_refs":[
+				"1Co 13:13",
+				"1Co 12:10",
+				"Mt 17:20"
+			],
+			"explanation":"No substantive TR\/SBLGNT textual difference drives the translation here. The real issue is lexical reception: ἀγάπη, repeated throughout 1 Cor 13, is rendered by KJV “charity,” a good 17th-century equivalent for Latin caritas and Christian love, but now apt to be heard as almsgiving. BDAG s.v. ἀγάπη gives “love” in the sense of high regard\/affection, not merely beneficence. The KJV’s “gift of prophecy” also supplies “gift of”: Greek has simply προφητείαν, though the context of χαρίσματα in 1 Cor 12 makes the supplement understandable. “Though” represents ἐάν with subjunctive, a hypothetical concessive condition; modern “if” is formally closer, but less rhetorically concessive. “Could remove mountains” expands ὥστε ὄρη μεθιστάναι, literally “so as to move mountains,” echoing the proverbial faith saying in Matt 17:20."
+		},
+		"raw":"{\"primary_nuance\":\"The main difference is KJV “charity”: in 1611 it denoted caritas, Christian self-giving love, whereas for many modern readers it now suggests almsgiving or benevolent donation.\",\"category\":\"archaic-english-drift\",\"key_term\":\"ἀγάπη\",\"english_drift\":\"“charity” = in 1611, Christian love\/benevolence, caritas; now often narrowed to almsgiving, philanthropy, or aid to the poor.\",\"textual_note\":\"\",\"cross_refs\":[\"1Co 13:13\",\"1Co 12:10\",\"Mt 17:20\"],\"explanation\":\"No substantive TR\/SBLGNT textual difference drives the translation here. The real issue is lexical reception: ἀγάπη, repeated throughout 1 Cor 13, is rendered by KJV “charity,” a good 17th-century equivalent for Latin caritas and Christian love, but now apt to be heard as almsgiving. BDAG s.v. ἀγάπη gives “love” in the sense of high regard\/affection, not merely beneficence. The KJV’s “gift of prophecy” also supplies “gift of”: Greek has simply προφητείαν, though the context of χαρίσματα in 1 Cor 12 makes the supplement understandable. “Though” represents ἐάν with subjunctive, a hypothetical concessive condition; modern “if” is formally closer, but less rhetorically concessive. “Could remove mountains” expands ὥστε ὄρη μεθιστάναι, literally “so as to move mountains,” echoing the proverbial faith saying in Matt 17:20.\"}"
+	}
+]

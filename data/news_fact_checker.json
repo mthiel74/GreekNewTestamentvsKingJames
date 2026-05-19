@@ -1,0 +1,209 @@
+[
+	{
+		"id":"udhr_article_1",
+		"title":"Universal Declaration of Human Rights, Article 1 (UN, 1948)",
+		"sourceLang":"Spanish",
+		"source":"Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+		"headnote":"Spanish is one of the six official UN languages. The English version below is the equivalent official UN translation. The framework's job: confirm the official English does not silently diverge from the Spanish, and flag the difference between a headline-style condensation and a formal-legal rendering.",
+		"candidates":[
+			{
+				"label":"Official UN English",
+				"text":"All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+			},
+			{
+				"label":"Headline-style condensation",
+				"text":"Everyone is born free and equal; we are reasoning, conscientious beings and must treat each other as brothers and sisters."
+			},
+			{
+				"label":"Formal-legal rendering",
+				"text":"All persons are born possessing inherent liberty and equality in dignity and entitlements; being endowed with the faculties of reason and moral conscience, they shall comport themselves toward one another in fraternal solidarity."
+			}
+		],
+		"audit":{
+			"source":"Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+			"sourceLang":"Spanish",
+			"model":"gpt-5.4",
+			"baseline":"All human beings are born free and equal in dignity and rights, and, endowed as they are with reason and conscience, ought to behave fraternally toward one another.",
+			"candidates":[
+				{
+					"index":1,
+					"candidate":"All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.",
+					"distance":7.217955243635499e-2
+				},
+				{
+					"index":2,
+					"candidate":"Everyone is born free and equal; we are reasoning, conscientious beings and must treat each other as brothers and sisters.",
+					"distance":0.1831703015002798
+				},
+				{
+					"index":3,
+					"candidate":"All persons are born possessing inherent liberty and equality in dignity and entitlements; being endowed with the faculties of reason and moral conscience, they shall comport themselves toward one another in fraternal solidarity.",
+					"distance":0.2114862880043139
+				}
+			],
+			"commentary":[
+				{
+					"distinctive_choice":"It splits the sentence and recasts the final clause as “in a spirit of brotherhood,” slightly shifting the adverbial force of “fraternalmente.”",
+					"key_lemma":"fraternalmente",
+					"suggested_alt":"should behave fraternally toward one another",
+					"explanation":"The candidate is generally accurate, preserving the core meaning of freedom, equality, reason, and conscience. Its main divergence is stylistic and slightly semantic: the source’s participial construction “dotados como están” is simplified into a separate statement (“They are endowed”), and “deben comportarse fraternalmente” becomes “should act … in a spirit of brotherhood.” That phrase is idiomatic, but it softens the direct adverb “fraternalmente” and introduces a more interpretive, male-marked noun (“brotherhood”). The baseline hews closer to the source’s syntax and manner of action."
+				},
+				{
+					"distinctive_choice":"It modernizes the fraternal language and recasts the middle clause, but drops explicit mention of dignity and rights.",
+					"key_lemma":"dignidad y derechos",
+					"suggested_alt":"All human beings are born free and equal in dignity and rights",
+					"explanation":"The candidate’s main divergence is omission: it reduces “Todos los seres humanos” to “Everyone” and entirely removes “en dignidad y derechos,” a core element of the source. It also shifts the participial structure “dotados como están de razón y conciencia” into the paraphrase “we are reasoning, conscientious beings,” which is more interpretive: “conscience” becomes the adjective “conscientious,” altering meaning. Finally, “deben comportarse fraternalmente” is rendered as “must treat each other as brothers and sisters,” an inclusive but less literal expansion of “fraternally” and a stronger interpersonal gloss on “behave.”"
+				},
+				{
+					"distinctive_choice":"Elevates the register and shifts modality, replacing plain rights\/duties language with legalistic and moralized phrasing.",
+					"key_lemma":"derechos",
+					"suggested_alt":"rights",
+					"explanation":"The candidate is broadly faithful but noticeably more interpretive than the baseline. “All persons” for “Todos los seres humanos” is acceptable, yet “possessing inherent liberty” intensifies “nacen libres,” adding “inherent” and abstracting “free” into a doctrine-like noun. More significantly, “entitlements” weakens and narrows “derechos,” which in this declaration-style context is better rendered as “rights.” “Moral conscience” adds an evaluative nuance absent from “conciencia.” Finally, “they shall comport themselves” sounds prescriptive and legalistic, whereas “deben comportarse” here is closer to “ought to behave.” “Fraternal solidarity” also over-explicates “fraternalmente.”"
+				}
+			],
+			"candidate_labels":[
+				"Official UN English",
+				"Headline-style condensation",
+				"Formal-legal rendering"
+			]
+		}
+	},
+	{
+		"id":"laudato_si_opening",
+		"title":"Pope Francis, Laudato Si' §1 (Vatican, 2015)",
+		"sourceLang":"Italian",
+		"source":"«Laudato si', mi' Signore», cantava san Francesco d'Assisi. In questo bel cantico ci ricordava che la nostra casa comune è anche come una sorella, con la quale condividiamo l'esistenza, e come una madre bella che ci accoglie tra le sue braccia.",
+		"headnote":"The opening of the 2015 encyclical Laudato Si'. The official Italian text is on vatican.va; the Vatican's own English translation is below. News-outlet summaries vary in how much of the cantico (canticle) framing they keep — some keep the saint's voice; others jump straight to the policy message about the planet.",
+		"candidates":[
+			{
+				"label":"Official Vatican English",
+				"text":"'LAUDATO SI', mi' Signore' – 'Praise be to you, my Lord'. In the words of this beautiful canticle, Saint Francis of Assisi reminds us that our common home is like a sister with whom we share our life and a beautiful mother who opens her arms to embrace us."
+			},
+			{
+				"label":"Newsroom paraphrase (environment framing)",
+				"text":"Pope Francis opens his environmental encyclical by invoking Saint Francis of Assisi's hymn 'Praise be to you, my Lord'. He calls the Earth a sister with whom humanity shares its existence, and a mother who welcomes us."
+			},
+			{
+				"label":"Devotional paraphrase (canticle framing)",
+				"text":"Saint Francis of Assisi sang 'Praise be to you, my Lord'. In that beautiful song he reminded us that our common home is like a sister and like a beautiful mother who takes us into her embrace."
+			}
+		],
+		"audit":{
+			"source":"«Laudato si', mi' Signore», cantava san Francesco d'Assisi. In questo bel cantico ci ricordava che la nostra casa comune è anche come una sorella, con la quale condividiamo l'esistenza, e come una madre bella che ci accoglie tra le sue braccia.",
+			"sourceLang":"Italian",
+			"model":"gpt-5.4",
+			"baseline":"Praised be you, my Lord, sang Saint Francis of Assisi. In this beautiful canticle he reminded us that our common home is also like a sister, with whom we share existence, and like a beautiful mother who receives us into her arms.",
+			"candidates":[
+				{
+					"index":3,
+					"candidate":"Saint Francis of Assisi sang 'Praise be to you, my Lord'. In that beautiful song he reminded us that our common home is like a sister and like a beautiful mother who takes us into her embrace.",
+					"distance":9.84869127848087e-2
+				},
+				{
+					"index":1,
+					"candidate":"'LAUDATO SI', mi' Signore' – 'Praise be to you, my Lord'. In the words of this beautiful canticle, Saint Francis of Assisi reminds us that our common home is like a sister with whom we share our life and a beautiful mother who opens her arms to embrace us.",
+					"distance":0.1652092666099415
+				},
+				{
+					"index":2,
+					"candidate":"Pope Francis opens his environmental encyclical by invoking Saint Francis of Assisi's hymn 'Praise be to you, my Lord'. He calls the Earth a sister with whom humanity shares its existence, and a mother who welcomes us.",
+					"distance":0.23938136571198165
+				}
+			],
+			"commentary":[
+				{
+					"distinctive_choice":"It streamlines the imagery, replacing “canticle” with “song” and omitting two relational nuances present in the Italian.",
+					"key_lemma":"con la quale condividiamo l'esistenza",
+					"suggested_alt":"our common home is also like a sister, with whom we share existence, and like a beautiful mother who welcomes us into her arms",
+					"explanation":"The candidate is broadly faithful, but it compresses important elements. “In that beautiful song” weakens the specifically devotional\/literary sense of “bel cantico.” More significantly, it drops both “anche” (“also”) and the clause “con la quale condividiamo l’esistenza,” which explicitly grounds the sister-image in shared existence. “Takes us into her embrace” is acceptable, though “ci accoglie tra le sue braccia” is closer to “welcomes\/receives us into her arms,” preserving the maternal hospitality. The result is smoother English, but slightly thinner in theological and relational texture."
+				},
+				{
+					"distinctive_choice":"It shifts the narrative frame from past reported speech to a present paraphrase and slightly heightens the maternal image.",
+					"key_lemma":"cantava; ci ricordava; ci accoglie",
+					"suggested_alt":"sang Saint Francis of Assisi. In this beautiful canticle he reminded us",
+					"explanation":"The candidate is mostly faithful, but it departs in tense and framing. The source has simple past narration: san Francesco “cantava” and “ci ricordava,” whereas the candidate recasts this as a quotation plus “Saint Francis of Assisi reminds us,” making it present and less directly tied to the act of singing. It also replaces “condividiamo l’esistenza” with “share our life,” which is acceptable but narrower than “existence.” Finally, “ci accoglie tra le sue braccia” means “receives\/welcomes us into her arms,” while “opens her arms to embrace us” is a more interpretive, intensified image."
+				},
+				{
+					"distinctive_choice":"The candidate reframes the sentence as commentary about the encyclical and compresses several images, rather than translating the quoted passage directly.",
+					"key_lemma":"cantava; in questo bel cantico; ci ricordava; casa comune; bella; ci accoglie tra le sue braccia",
+					"suggested_alt":"In this beautiful canticle he reminded us that our common home is like a sister ... and like a beautiful mother who receives us into her arms.",
+					"explanation":"The candidate adds material absent from the source—“Pope Francis opens his environmental encyclical” and “the Earth”—thereby replacing the direct report of what Saint Francis “sang” (cantava) and what “in this beautiful canticle” he “reminded us” (ci ricordava). It also omits key nuances: “common home” (casa comune) becomes simply “the Earth,” “beautiful” (bella) before “mother” disappears, and “receives us into her arms” (ci accoglie tra le sue braccia) is reduced to “welcomes us.” These shifts make the version more interpretive and less textually faithful."
+				}
+			],
+			"candidate_labels":[
+				"Devotional paraphrase (canticle framing)",
+				"Official Vatican English",
+				"Newsroom paraphrase (environment framing)"
+			]
+		}
+	},
+	{
+		"id":"un_charter_article_1",
+		"title":"United Nations Charter, Article 1 (1945)",
+		"sourceLang":"French",
+		"source":"Les buts des Nations Unies sont les suivants : Maintenir la paix et la sécurité internationales et à cette fin : prendre des mesures collectives efficaces en vue de prévenir et d'écarter les menaces à la paix et de réprimer tout acte d'agression ou autre rupture de la paix, et réaliser, par des moyens pacifiques, conformément aux principes de la justice et du droit international, l'ajustement ou le règlement de différends ou de situations, de caractère international, susceptibles de mener à une rupture de la paix.",
+		"headnote":"Article 1, paragraph 1 of the UN Charter — the first sentence of the founding document of the modern international order. The French and English texts are both authentic (equally official). The two paraphrases test whether a 'plain-language' rendering keeps the legal force, and whether a 'headline' rendering omits the conditions the original makes explicit.",
+		"candidates":[
+			{
+				"label":"Official UN English",
+				"text":"The Purposes of the United Nations are: To maintain international peace and security, and to that end: to take effective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of aggression or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace."
+			},
+			{
+				"label":"Plain-language rendering",
+				"text":"The UN exists to keep the world peaceful and safe. To do that, it takes joint action to prevent and remove threats to peace, to stop acts of aggression, and to settle international disputes peacefully, using the rules of justice and international law."
+			},
+			{
+				"label":"Headline-style condensation",
+				"text":"The UN's first purpose is to maintain international peace and security — preventing aggression and settling disputes by peaceful, lawful means."
+			}
+		],
+		"audit":{
+			"source":"Les buts des Nations Unies sont les suivants : Maintenir la paix et la sécurité internationales et à cette fin : prendre des mesures collectives efficaces en vue de prévenir et d'écarter les menaces à la paix et de réprimer tout acte d'agression ou autre rupture de la paix, et réaliser, par des moyens pacifiques, conformément aux principes de la justice et du droit international, l'ajustement ou le règlement de différends ou de situations, de caractère international, susceptibles de mener à une rupture de la paix.",
+			"sourceLang":"French",
+			"model":"gpt-5.4",
+			"baseline":"The purposes of the United Nations are these: to maintain international peace and security, and for this end to take effective collective measures for preventing and removing threats to the peace, and for suppressing every act of aggression or other breach of the peace, and to bring about, by peaceful means, in accordance with the principles of justice and international law, the adjustment or settlement of disputes or situations of an international character that are likely to lead to a breach of the peace.",
+			"candidates":[
+				{
+					"index":1,
+					"candidate":"The Purposes of the United Nations are: To maintain international peace and security, and to that end: to take effective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of aggression or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace.",
+					"distance":3.14423393322949e-2
+				},
+				{
+					"index":3,
+					"candidate":"The UN's first purpose is to maintain international peace and security — preventing aggression and settling disputes by peaceful, lawful means.",
+					"distance":0.1811160760675019
+				},
+				{
+					"index":2,
+					"candidate":"The UN exists to keep the world peaceful and safe. To do that, it takes joint action to prevent and remove threats to peace, to stop acts of aggression, and to settle international disputes peacefully, using the rules of justice and international law.",
+					"distance":0.25017259848762463
+				}
+			],
+			"commentary":[
+				{
+					"distinctive_choice":"Mostly faithful, but it narrows scope by omitting “every\/any” and recasts “of an international character” as simply “international.”",
+					"key_lemma":"tout; de caractère international",
+					"suggested_alt":"for suppressing every act of aggression or other breach of the peace",
+					"explanation":"The candidate is very close to the baseline, but two shifts matter. First, French “réprimer tout acte d’agression” is stronger and more universal than “the suppression of acts of aggression”; “tout” is better reflected by “every act” or “any act.” Second, “différends ou de situations, de caractère international” means disputes or situations “of an international character,” whereas “international disputes or situations” slightly tightens the syntax and may imply both are straightforwardly international rather than characterized as such. Other differences (“in conformity with,” “which might lead”) are acceptable stylistic variants."
+				},
+				{
+					"distinctive_choice":"Compresses and narrows the article, recasting plural purposes as a single “first purpose” and omitting several operative elements.",
+					"key_lemma":"Les buts ... sont les suivants",
+					"suggested_alt":"The purposes of the United Nations are these: to maintain international peace and security, and for this end to take effective collective measures...",
+					"explanation":"The candidate is a drastic summary rather than a close translation. It changes the framing from plural purposes (“Les buts ... sont les suivants”) to “The UN’s first purpose,” which is not stated here. It also drops important legal content: “effective collective measures,” the prevention and removal of “threats to the peace,” suppression of “every act of aggression or other breach of the peace,” and disputes or situations “of an international character” likely to lead to such a breach. “Lawful means” only partially captures “conformément aux principes de la justice et du droit international.”"
+				},
+				{
+					"distinctive_choice":"The candidate paraphrases and compresses the charter-style enumeration, omitting several legal qualifiers and narrowing the final clause.",
+					"key_lemma":"susceptibles de mener à une rupture de la paix",
+					"suggested_alt":"and to bring about, by peaceful means, in accordance with justice and international law, the adjustment or settlement of disputes or situations of an international character likely to lead to a breach of the peace",
+					"explanation":"It recasts “Les buts des Nations Unies sont les suivants” as “The UN exists,” which is looser than a statement of purposes. “Joint action” weakens “prendre des mesures collectives efficaces,” dropping “effective.” More importantly, it omits “ou autre rupture de la paix” after aggression, and reduces “l'ajustement ou le règlement de différends ou de situations, de caractère international, susceptibles de mener à une rupture de la paix” to simply “settle international disputes peacefully.” That loses adjustment vs. settlement, disputes or situations, international character, and the condition that they be likely to lead to a breach of the peace."
+				}
+			],
+			"candidate_labels":[
+				"Official UN English",
+				"Headline-style condensation",
+				"Plain-language rendering"
+			]
+		}
+	}
+]

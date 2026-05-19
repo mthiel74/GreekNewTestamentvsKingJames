@@ -1,0 +1,93 @@
+[
+	{
+		"ref":"1Co 13:10",
+		"greek":"ὅταν δὲ ἔλθῃ τὸ τέλειον, τὸ ἐκ μέρους καταργηθήσεται.",
+		"kjv":"But when that which is perfect is come, then that which is in part shall be done away.",
+		"modern":"But when the complete comes, what is partial will be brought to an end.",
+		"distance":0.3207515081444636
+	},
+	{
+		"ref":"1Co 13:4",
+		"greek":"Ἡ ἀγάπη μακροθυμεῖ, χρηστεύεται ἡ ἀγάπη, οὐ ζηλοῖ ἡ ἀγάπη, οὐ περπερεύεται, οὐ φυσιοῦται,",
+		"kjv":"Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,",
+		"modern":"Love is patient; love is kind; love does not envy; it does not boast; it is not puffed up.",
+		"distance":0.28983998477636974
+	},
+	{
+		"ref":"1Co 13:5",
+		"greek":"οὐκ ἀσχημονεῖ, οὐ ζητεῖ τὰ ἑαυτῆς, οὐ παροξύνεται, οὐ λογίζεται τὸ κακόν,",
+		"kjv":"Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;",
+		"modern":"It does not behave disgracefully, does not seek its own interests, is not provoked, does not keep account of wrong;",
+		"distance":0.2717928526752085
+	},
+	{
+		"ref":"1Co 13:3",
+		"greek":"καὶ ἐὰν ψωμίσω πάντα τὰ ὑπάρχοντά μου, καὶ ἐὰν παραδῶ τὸ σῶμά μου, ἵνα καυθήσομαι, ἀγάπην δὲ μὴ ἔχω, οὐδὲν ὠφελοῦμαι.",
+		"kjv":"And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.",
+		"modern":"And if I parcel out all my possessions, and if I hand over my body so that I will be burned, but do not have love, I gain nothing.",
+		"distance":0.25046481943126886
+	},
+	{
+		"ref":"1Co 13:8",
+		"greek":"Ἡ ἀγάπη οὐδέποτε πίπτει. εἴτε δὲ προφητεῖαι, καταργηθήσονται· εἴτε γλῶσσαι, παύσονται· εἴτε γνῶσις, καταργηθήσεται.",
+		"kjv":"Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.",
+		"modern":"Love never falls. But whether prophecies, they will be brought to an end; whether tongues, they will cease; whether knowledge, it will be brought to an end.",
+		"distance":0.24273550138341005
+	},
+	{
+		"ref":"1Co 13:6",
+		"greek":"οὐ χαίρει ἐπὶ τῇ ἀδικίᾳ, συγχαίρει δὲ τῇ ἀληθείᾳ·",
+		"kjv":"Rejoiceth not in iniquity, but rejoiceth in the truth;",
+		"modern":"It does not rejoice over injustice, but rejoices with the truth.",
+		"distance":0.1777071975720973
+	},
+	{
+		"ref":"1Co 13:1",
+		"greek":"Ἐὰν ταῖς γλώσσαις τῶν ἀνθρώπων λαλῶ καὶ τῶν ἀγγέλων, ἀγάπην δὲ μὴ ἔχω, γέγονα χαλκὸς ἠχῶν ἢ κύμβαλον ἀλαλάζον.",
+		"kjv":"Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+		"modern":"If I speak in the tongues of humans and of angels but do not have love, I have become sounding bronze or a clanging cymbal.",
+		"distance":0.14765146348010738
+	},
+	{
+		"ref":"1Co 13:2",
+		"greek":"καὶ ἐὰν ἔχω προφητείαν καὶ εἰδῶ τὰ μυστήρια πάντα καὶ πᾶσαν τὴν γνῶσιν, καὶ ἐὰν ἔχω πᾶσαν τὴν πίστιν ὥστε ὄρη μεθιστάναι, ἀγάπην δὲ μὴ ἔχω, οὐθέν εἰμι.",
+		"kjv":"And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.",
+		"modern":"And if I have prophecy and know all the mysteries and all knowledge, and if I have all faith so as to move mountains but do not have love, I am nothing.",
+		"distance":0.13539086866429217
+	},
+	{
+		"ref":"1Co 13:13",
+		"greek":"νυνὶ δὲ μένει πίστις, ἐλπίς, ἀγάπη· τὰ τρία ταῦτα, μείζων δὲ τούτων ἡ ἀγάπη.",
+		"kjv":"And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+		"modern":"And now faith, hope, and love remain, these three; but the greatest of these is love.",
+		"distance":0.1307998851614296
+	},
+	{
+		"ref":"1Co 13:11",
+		"greek":"ὅτε ἤμην νήπιος, ἐλάλουν ὡς νήπιος, ἐφρόνουν ὡς νήπιος, ἐλογιζόμην ὡς νήπιος· ὅτε γέγονα ἀνήρ, κατήργηκα τὰ τοῦ νηπίου.",
+		"kjv":"When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.",
+		"modern":"When I was a child, I spoke like a child, I thought like a child, I reasoned like a child; when I have become an adult, I have put an end to the things of the child.",
+		"distance":0.11293511258331368
+	},
+	{
+		"ref":"1Co 13:7",
+		"greek":"πάντα στέγει, πάντα πιστεύει, πάντα ἐλπίζει, πάντα ὑπομένει.",
+		"kjv":"Beareth all things, believeth all things, hopeth all things, endureth all things.",
+		"modern":"It bears all things, believes all things, hopes all things, endures all things.",
+		"distance":0.1097697715613013
+	},
+	{
+		"ref":"1Co 13:12",
+		"greek":"βλέπομεν γὰρ ἄρτι δι’ ἐσόπτρου ἐν αἰνίγματι, τότε δὲ πρόσωπον πρὸς πρόσωπον· ἄρτι γινώσκω ἐκ μέρους, τότε δὲ ἐπιγνώσομαι καθὼς καὶ ἐπεγνώσθην.",
+		"kjv":"For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.",
+		"modern":"For now we see through a mirror, in an enigma, but then face to face; now I know in part, but then I will know fully, just as I also was fully known.",
+		"distance":8.645243431440564e-2
+	},
+	{
+		"ref":"1Co 13:9",
+		"greek":"ἐκ μέρους γὰρ γινώσκομεν καὶ ἐκ μέρους προφητεύομεν·",
+		"kjv":"For we know in part, and we prophesy in part.",
+		"modern":"For we know in part, and we prophesy in part.",
+		"distance":0.0
+	}
+]

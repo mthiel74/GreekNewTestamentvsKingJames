@@ -1,0 +1,65 @@
+[
+  {
+    "id": "udhr_article_1",
+    "title": "Universal Declaration of Human Rights, Article 1 (UN, 1948)",
+    "sourceLang": "Spanish",
+    "source": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+    "headnote": "Spanish is one of the six official UN languages. The English version below is the equivalent official UN translation. The framework's job: confirm the official English does not silently diverge from the Spanish, and flag the difference between a headline-style condensation and a formal-legal rendering.",
+    "candidates": [
+      {
+        "label": "Official UN English",
+        "text": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+      },
+      {
+        "label": "Headline-style condensation",
+        "text": "Everyone is born free and equal; we are reasoning, conscientious beings and must treat each other as brothers and sisters."
+      },
+      {
+        "label": "Formal-legal rendering",
+        "text": "All persons are born possessing inherent liberty and equality in dignity and entitlements; being endowed with the faculties of reason and moral conscience, they shall comport themselves toward one another in fraternal solidarity."
+      }
+    ]
+  },
+  {
+    "id": "laudato_si_opening",
+    "title": "Pope Francis, Laudato Si' §1 (Vatican, 2015)",
+    "sourceLang": "Italian",
+    "source": "«Laudato si', mi' Signore», cantava san Francesco d'Assisi. In questo bel cantico ci ricordava che la nostra casa comune è anche come una sorella, con la quale condividiamo l'esistenza, e come una madre bella che ci accoglie tra le sue braccia.",
+    "headnote": "The opening of the 2015 encyclical Laudato Si'. The official Italian text is on vatican.va; the Vatican's own English translation is below. News-outlet summaries vary in how much of the cantico (canticle) framing they keep — some keep the saint's voice; others jump straight to the policy message about the planet.",
+    "candidates": [
+      {
+        "label": "Official Vatican English",
+        "text": "'LAUDATO SI', mi' Signore' – 'Praise be to you, my Lord'. In the words of this beautiful canticle, Saint Francis of Assisi reminds us that our common home is like a sister with whom we share our life and a beautiful mother who opens her arms to embrace us."
+      },
+      {
+        "label": "Newsroom paraphrase (environment framing)",
+        "text": "Pope Francis opens his environmental encyclical by invoking Saint Francis of Assisi's hymn 'Praise be to you, my Lord'. He calls the Earth a sister with whom humanity shares its existence, and a mother who welcomes us."
+      },
+      {
+        "label": "Devotional paraphrase (canticle framing)",
+        "text": "Saint Francis of Assisi sang 'Praise be to you, my Lord'. In that beautiful song he reminded us that our common home is like a sister and like a beautiful mother who takes us into her embrace."
+      }
+    ]
+  },
+  {
+    "id": "un_charter_article_1",
+    "title": "United Nations Charter, Article 1 (1945)",
+    "sourceLang": "French",
+    "source": "Les buts des Nations Unies sont les suivants : Maintenir la paix et la sécurité internationales et à cette fin : prendre des mesures collectives efficaces en vue de prévenir et d'écarter les menaces à la paix et de réprimer tout acte d'agression ou autre rupture de la paix, et réaliser, par des moyens pacifiques, conformément aux principes de la justice et du droit international, l'ajustement ou le règlement de différends ou de situations, de caractère international, susceptibles de mener à une rupture de la paix.",
+    "headnote": "Article 1, paragraph 1 of the UN Charter — the first sentence of the founding document of the modern international order. The French and English texts are both authentic (equally official). The two paraphrases test whether a 'plain-language' rendering keeps the legal force, and whether a 'headline' rendering omits the conditions the original makes explicit.",
+    "candidates": [
+      {
+        "label": "Official UN English",
+        "text": "The Purposes of the United Nations are: To maintain international peace and security, and to that end: to take effective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of aggression or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace."
+      },
+      {
+        "label": "Plain-language rendering",
+        "text": "The UN exists to keep the world peaceful and safe. To do that, it takes joint action to prevent and remove threats to peace, to stop acts of aggression, and to settle international disputes peacefully, using the rules of justice and international law."
+      },
+      {
+        "label": "Headline-style condensation",
+        "text": "The UN's first purpose is to maintain international peace and security — preventing aggression and settling disputes by peaceful, lawful means."
+      }
+    ]
+  }
+]
