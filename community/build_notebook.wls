@@ -532,6 +532,14 @@ subtitle["A Wolfram framework for auditing the nuance gap between any two render
 Sequence @@ illustrationCell["hero_cover.png",
    "Cover. Every translation is a choice. This notebook turns those choices into a number you can rank, a chart you can read, and an LLM commentary you can quote."],
 
+abstractCell[{
+  "Whenever a text crosses a language, a translator makes choices: which sense of a polysemous word to pick, which idiom to flatten, which manuscript variant to follow, how much rhetorical decoration to add. Most of the time those choices don't matter. Sometimes they do \[Dash] a theological loading, a manuscript variant, a journalistic spin. Reading two translations side by side is the oldest technique in philology for catching them; it doesn't scale. ",
+  "This notebook builds a small, language-agnostic framework that takes any two renderings of the same source, embeds each one with a multilingual model, ranks aligned units by cosine distance, and asks a frontier LLM to articulate \[Dash] in concrete, falsifiable prose with the source-language lemma quoted \[Dash] ", ital["why"], " each large gap exists. ",
+  "The headline case study is the SBLGNT vs the KJV. The same pipeline then runs on Homer's ", ital["Iliad"],
+  " (Pope vs Butler), the ", ital["Daodejing"],
+  " (Legge 1891 vs a fresh modern rendering), and \[Dash] in \[Section] 10 \[Dash] on three multilingual news / treaty texts where the framework reads as a translation ", bold["fact-checker"], ": the UDHR, a Vatican encyclical, and a UN Secretary-General address. An interactive ", mono["LostInTranslation`Audit[\[Ellipsis]]"],
+  " function lets you run the same audit on any text in any source language."}],
+
 para[{
   "Every Wolfram-generated output in this notebook is reproduced from a single \
 companion package, ", mono["lost_in_translation.wl"],
@@ -552,14 +560,6 @@ available on GitHub at ",
     "https://github.com/mthiel74/GreekNewTestamentvsKingJames",
     "https://github.com/mthiel74/GreekNewTestamentvsKingJames"]],
   "."}],
-
-abstractCell[{
-  "Whenever a text crosses a language, a translator makes choices: which sense of a polysemous word to pick, which idiom to flatten, which manuscript variant to follow, how much rhetorical decoration to add. Most of the time those choices don't matter. Sometimes they do \[Dash] a theological loading, a manuscript variant, a journalistic spin. Reading two translations side by side is the oldest technique in philology for catching them; it doesn't scale. ",
-  "This notebook builds a small, language-agnostic framework that takes any two renderings of the same source, embeds each one with a multilingual model, ranks aligned units by cosine distance, and asks a frontier LLM to articulate \[Dash] in concrete, falsifiable prose with the source-language lemma quoted \[Dash] ", ital["why"], " each large gap exists. ",
-  "The headline case study is the SBLGNT vs the KJV. The same pipeline then runs on Homer's ", ital["Iliad"],
-  " (Pope vs Butler), the ", ital["Daodejing"],
-  " (Legge 1891 vs a fresh modern rendering), and \[Dash] in \[Section] 10 \[Dash] on three multilingual news / treaty texts where the framework reads as a translation ", bold["fact-checker"], ": the UDHR, a Vatican encyclical, and a UN Secretary-General address. An interactive ", mono["LostInTranslation`Audit[\[Ellipsis]]"],
-  " function lets you run the same audit on any text in any source language."}],
 
 hd1["1. Motivation \[LongDash] translation as a measurable thing"],
 para[{
